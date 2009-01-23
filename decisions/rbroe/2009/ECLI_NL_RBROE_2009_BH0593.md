@@ -1,0 +1,141 @@
+---
+ecli: "ECLI:NL:RBROE:2009:BH0593"
+court: "Rechtbank Roermond"
+court_code: "RBROE"
+docket: "04/860662-06"
+decided: "2009-01-23"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROE:2009:BH0593"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBROE:2009:BH0593 Rechtbank Roermond , 23-01-2009 / 04/860662-06
+
+## Inhoudsindicatie
+
+Vrijspraak van poging doodslag, poging zware mishandeling en openlijke geweldpleging.
+
+## Uitspraak
+
+RECHTBANK ROERMOND
+
+Parketnummer	: 04/860662-06
+
+Uitspraak d.d.	: 23 januari 2009
+
+TEGENSPRAAK
+
+VONNIS
+
+van de rechtbank Roermond,
+
+meervoudige kamer voor strafzaken, in de zaak tegen:
+
+naam	: [verdachte]
+
+voornamen	: [verdachte]
+
+geboren op	: [geboortedatum]
+
+adres	: [adres]
+
+plaats	: [woonplaats]
+
+1. Het onderzoek van de zaak
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzitting van 9 januari 2009.
+
+2. De tenlastelegging
+
+De verdachte staat terecht ter zake dat:
+
+1.
+
+hij op of omstreeks 12 juni 2006 te Blerick, in elk geval in de gemeente Venlo, ter uitvoering van het door verdachte voorgenomen misdrijf om opzettelijk [slachtoffer 1] van het leven te beroven, met dat opzet meermalen, althans eenmaal, met een houten balk, in elk geval met een hard, langwerpig voorwerp, heeft geslagen tegen en/of in de richting van het hoofd van die [slachtoffer 1], terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+art. 287 jo 45 Wetboek van Strafrecht.
+
+Althans indien terzake het vorenstaande onder 1 geen veroordeling zou volgen:
+
+hij op of omstreeks 12 juni 2006 te Blerick, in elk geval in de gemeente Venlo, ter uitvoering van het door verdachte voorgenomen misdrijf om aan [slachtoffer 1], opzettelijk zwaar lichamelijk letsel toe te brengen, met dat opzet meermalen, althans eenmaal, met een houten balk, in elk geval met een hard, langwerpig voorwerp, heeft geslagen tegen en/of in de richting van het hoofd van die [slachtoffer 1], terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+art. 302 jo 45 Wetboek van Strafrecht.
+
+Althans indien terzake al het vorenstaande onder 1 geen veroordeling zou volgen:
+
+hij op of omstreeks 12 juni 2006 te Blerick, in elk geval in de gemeente Venlo, met een ander of anderen, in/bij het Wassumpark, in elk geval op of aan een voor het publiek waarneembare plaats, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 1], welk geweld heeft bestaan uit:
+
+- het meermalen, althans eenmaal, maken van stekende of porrende en/of slaande bewegingen met een balk, in elk geval een langwerpig hard voorwerp, in de richting van die [slachtoffer 1] en/of
+
+- het (dreigend) op die [slachtoffer 1] afrennen, in elk geval toelopen en/of (vervolgens) joelen of schreeuwen in de richting van die [slachtoffer 1] en/of
+
+- het opheffen of tonen van een ploertendoder, in elk geval een hard voorwerp, in de richting van die [slachtoffer 1] en/of
+
+- het meermalen, althans eenmaal, slaan en/of schoppen en/of duwen tegen die [slachtoffer 1], waarbij hij, verdachte, meermalen, althans eenmaal, met een houten balk, in elk geval een langwerpig hard voorwerp tegen, in elk geval in de richting van
+
+het hoofd van die [slachtoffer 1] heeft geslagen, en welk door hem gepleegd geweld enig lichamelijk letsel (een schaafwond, in elk geval een verwonding aan de rechteronderarm van die [slachtoffer 1]) voor die [slachtoffer 1] ten gevolge heeft gehad;
+
+Art. 141 Wetboek van Strafrecht.
+
+2.
+
+hij op of omstreeks 12 juni 2006 te Blerick, in elk geval in de gemeente Venlo, met een ander of anderen, in/bij het Wassumpark, in elk geval op of aan een voor het publiek waarneembare plaats, openlijk in vereniging geweld heeft gepleegd tegen [slachtoffer 2], welk geweld heeft bestaan uit:
+
+- het meermalen, althans eenmaal, maken van stekende of porrende en/of slaande bewegingen met een balk, in elk geval een langwerpig hard voorwerp, in de richting van die [slachtoffer 2] en/of
+
+- het (dreigend) op die [slachtoffer 2] afrennen, in elk geval toelopen en/of (vervolgens) joelen of schreeuwen in de richting van die [slachtoffer 2] en/of
+
+- het slaan of zwaaien met een kettingslot, in elk geval een hard voorwerp, in de richting van die [slachtoffer 2] en/of
+
+- het opheffen of tonen van een ploertendoder, in elk geval een hard voorwerp, in de richting van die [slachtoffer 2] en/of
+
+- het meermalen, althans eenmaal, slaan en/of schoppen en/of duwen tegen die [slachtoffer 2];
+
+Art. 141 Wetboek van Strafrecht.
+
+Voor zover in de tenlastelegging kennelijke schrijffouten of misslagen voorkomen, zijn die in deze weergave van de tenlastelegging door de rechtbank verbeterd. De verdachte is door deze verbetering, zoals uit het onderzoek ter terechtzitting is gebleken, niet in de verdediging geschaad.
+
+3. De geldigheid van de dagvaarding
+
+Bij het onderzoek ter terechtzitting is gebleken dat de dagvaarding aan alle wettelijke eisen voldoet en dus geldig is.
+
+4. De bevoegdheid van de rechtbank
+
+Krachtens de wettelijke bepalingen is de rechtbank bevoegd van het ten laste gelegde kennis te nemen.
+
+5. De ontvankelijkheid van de officier van justitie
+
+Bij het onderzoek ter terechtzitting zijn geen omstandigheden gebleken die aan de ontvankelijkheid van de officier van justitie in de weg staan. De officier van justitie kan dus in de vervolging worden ontvangen.
+
+6. Schorsing der vervolging
+
+Bij het onderzoek ter terechtzitting zijn geen gronden voor schorsing van de vervolging gebleken.
+
+7. Bewijsoverwegingen
+
+7.1 Standpunten van de officier van justitie en de verdediging
+
+De officier van justitie heeft ter terechtzitting van 9 januari 2009 gevorderd dat de verdachte ten aanzien van het onder 1 primair en subsidiair ten laste gelegde zal worden vrijgesproken en dat het onder 1 meer subsidiair en onder 2 ten laste gelegde zal worden bewezen verklaard.
+
+De verdediging heeft zich op het standpunt gesteld dat de verdachte dient te worden vrijgesproken van het ten laste gelegde.
+
+7.2 Vrijspraakoverwegingen van de rechtbank
+
+De rechtbank acht niet wettig en overtuigend bewezen hetgeen aan de verdachte onder 1 primair, subsidiair, meer subsidiair en onder 2 is ten laste gelegd. De rechtbank leidt uit de afgelegde verklaring van verdachte ter terechtzitting,  welke verklaring wordt bevestigd door meerdere getuigenverklaringen, en de zich in het dossier bevindende kleurenfoto’s van de houten balk en het daarop zichtbare (bloed) sporenbeeld af dat verdachte eerst met de houten balk wild en ongericht om zich heen is gaan zwaaien, nadat hij kort daarvoor door [slachtoffer 1] met een mes in zijn zij was gestoken. Gelet op deze volgorde van de feiten en de omstandigheden in het onderhavige geval, in onderling verband en samenhang bezien, kan naar het oordeel van de rechtbank niet wettig en overtuigend bewezen worden dat verdachte zich jegens [slachtoffer 1] en/of [slachtoffer 2] heeft schuldig gemaakt aan enige doelbewuste en gerichte geweldshandeling(en), zoals is ten laste gelegd. Dat verdachte tijdens het wild en ongecontroleerd om zich heen zwaaien mogelijk [slachtoffer 1] en/of [slachtoffer 2] met de houten balk heeft geraakt, doet hieraan naar het oordeel van de rechtbank niet af.
+
+Gelet op het vorenstaande dient verdachte dan ook te worden vrijgesproken van het tenlastegelegde.
+
+BESLISSING
+
+De rechtbank:
+
+verklaart niet wettig en overtuigend bewezen, dat de verdachte het sub 1 primair, subsidiair en meer subsidiair en sub 2 ten laste gelegde heeft begaan en spreekt verdachte daarvan vrij.
+
+Vonnis gewezen door mrs. F. Oelmeijer, C.C.W.M. Aretz en
+
+E.J.H.G. van Binnebeke, rechters, van wie mr. F. Oelmeijer voorzitter, in tegenwoordigheid van mr. P.C.M. Müller als griffier en uitgesproken ter openbare terechtzitting van de rechtbank op 23 januari 2009.
+
+Zijnde mr. C.C.W.M. Aretz buiten staat dit vonnis mede te ondertekenen.

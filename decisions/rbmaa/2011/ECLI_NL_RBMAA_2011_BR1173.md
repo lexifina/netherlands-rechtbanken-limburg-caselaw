@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBMAA:2011:BR1173"
-published_in: ["Rechtspraak.nl", "RAR 2011/143", "AR-Updates.nl 2011-0571", "XpertHR.nl 2011-366237"]
+published_in: ["Rechtspraak.nl", "RAR 2011/143", "AR-Updates.nl 2011-0571", "VAAN-AR-Updates.nl 2011-0571"]
 ---
 
 # ECLI:NL:RBMAA:2011:BR1173 Rechtbank Maastricht , 04-07-2011 / 161970/KG ZA 11-243

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2015:10180"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0077", "PR-Updates.nl PR-2020-0030"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0077", "PR-Updates.nl PR-2020-0030", "VAAN-AR-Updates.nl 2020-0077", "PR-Updates.nl 2020-0030"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2017:4788, Overig"]]
 ---
 

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2017:5161"
-published_in: ["Rechtspraak.nl", "AR 2017/3219", "JAR 2017/193", "AR-Updates.nl 2017-0784", "PR-Updates.nl AR-2017-0784"]
+published_in: ["Rechtspraak.nl", "AR 2017/3219", "JAR 2017/193", "AR-Updates.nl 2017-0784", "PR-Updates.nl AR-2017-0784", "PR-Updates.nl 2017-0784"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-669.md", "netherlands/national/acts/bw-boek-7/art-671.md"]
 ---
 

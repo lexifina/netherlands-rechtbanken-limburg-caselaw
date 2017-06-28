@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2017:6071"
-published_in: ["Rechtspraak.nl", "PJ 2017/123", "AR 2017/3476", "AR-Updates.nl 2017-0850", "PR-Updates.nl AR-2017-0850"]
+published_in: ["Rechtspraak.nl", "PJ 2017/123", "AR 2017/3476", "AR-Updates.nl 2017-0850", "PR-Updates.nl AR-2017-0850", "PR-Updates.nl 2017-0850"]
 ---
 
 # ECLI:NL:RBLIM:2017:6071 Rechtbank Limburg , 28-06-2017 / 04 5777726/CV 17-2157

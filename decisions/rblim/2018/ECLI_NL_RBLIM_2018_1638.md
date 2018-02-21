@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:1638"
-published_in: ["Rechtspraak.nl", "PJ 2018/47", "PR-Updates.nl PR-2018-0023", "JERF Actueel 2018/76"]
+published_in: ["Rechtspraak.nl", "PJ 2018/47", "PR-Updates.nl PR-2018-0023", "JERF Actueel 2018/76", "PR-Updates.nl 2018-0023"]
 ---
 
 # ECLI:NL:RBLIM:2018:1638 Rechtbank Limburg , 21-02-2018 / 6003371 \ CV EXPL 17-4283

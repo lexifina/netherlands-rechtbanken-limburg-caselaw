@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:2075"
-published_in: ["Rechtspraak.nl", "PJ 2018/77", "Viditax (FutD), 13-03-2018", "FutD 2018-0717 met annotatie van Fiscaal up to Date", "JOR 2018/165 met annotatie van mr. P.R.W. Schaink", "INS-Updates.nl 2018-0096", "PR-Updates.nl PR-2018-0039"]
+published_in: ["Rechtspraak.nl", "PJ 2018/77", "JOR 2018/165 met annotatie van mr. P.R.W. Schaink", "INS-Updates.nl 2018-0096", "PR-Updates.nl PR-2018-0039", "FutD 2018-0717", "Viditax (FutD) 2018031308", "PR-Updates.nl 2018-0039"]
 ---
 
 # ECLI:NL:RBLIM:2018:2075 Rechtbank Limburg , 07-03-2018 / C/03/236139 / HA ZA 17-293

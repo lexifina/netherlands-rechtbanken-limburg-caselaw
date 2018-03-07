@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:2024"
-published_in: ["Rechtspraak.nl", "PJ 2018/67", "PR-Updates.nl PR-2018-0038"]
+published_in: ["Rechtspraak.nl", "PJ 2018/67", "PR-Updates.nl PR-2018-0038", "PR-Updates.nl 2018-0038"]
 ---
 
 # ECLI:NL:RBLIM:2018:2024 Rechtbank Limburg , 07-03-2018 / 04 6527448 CV EXPL 17-9586

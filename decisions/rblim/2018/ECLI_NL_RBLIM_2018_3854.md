@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:3854"
-published_in: ["Rechtspraak.nl", "PJ 2018/117", "PR-Updates.nl PR-2018-0053"]
+published_in: ["Rechtspraak.nl", "PJ 2018/117", "PR-Updates.nl PR-2018-0053", "PR-Updates.nl 2018-0053"]
 ---
 
 # ECLI:NL:RBLIM:2018:3854 Rechtbank Limburg , 19-04-2018 / C/03/247164 / KG RK 18-163

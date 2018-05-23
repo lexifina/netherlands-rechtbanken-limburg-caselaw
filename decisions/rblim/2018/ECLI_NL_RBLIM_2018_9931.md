@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:9931"
-published_in: ["Rechtspraak.nl", "PJ 2018/153 met annotatie van B. Degelink", "PR-Updates.nl PR-2018-0131"]
+published_in: ["Rechtspraak.nl", "PJ 2018/153 met annotatie van B. Degelink", "PR-Updates.nl PR-2018-0131", "PR-Updates.nl 2018-0131"]
 ---
 
 # ECLI:NL:RBLIM:2018:9931 Rechtbank Limburg , 23-05-2018 / 6600749 CV EXPL 18-461

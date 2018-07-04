@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2018:6411"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0789", "PR-Updates.nl PR-2018-0097"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0789", "PR-Updates.nl PR-2018-0097", "VAAN-AR-Updates.nl 2018-0789", "PR-Updates.nl 2018-0097"]
 ---
 
 # ECLI:NL:RBLIM:2018:6411 Rechtbank Limburg , 04-07-2018 / 6691648 \ CV EXPL 18-1155

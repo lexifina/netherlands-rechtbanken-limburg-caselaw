@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2019:9551"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0175"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0175", "PR-Updates.nl 2019-0175"]
 ---
 
 # ECLI:NL:RBLIM:2019:9551 Rechtbank Limburg , 24-10-2019 / C/03/265556 / KG ZA 19-268

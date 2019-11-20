@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2019:10518"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0137", "PR-Updates.nl PR-2021-0047", "PJ 2021/90"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0137", "PR-Updates.nl PR-2021-0047", "PJ 2021/90", "VAAN-AR-Updates.nl 2021-0137", "PR-Updates.nl 2021-0047"]
 ---
 
 # ECLI:NL:RBLIM:2019:10518 Rechtbank Limburg , 20-11-2019 / 7080865 CV EXPL 18-4447

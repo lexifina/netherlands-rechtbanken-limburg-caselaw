@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2020:2107"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0069", "PJ 2020/59"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0069", "PJ 2020/59", "PR-Updates.nl 2020-0069"]
 ---
 
 # ECLI:NL:RBLIM:2020:2107 Rechtbank Limburg , 11-03-2020 / C/03/263910 / HA ZA 19-228

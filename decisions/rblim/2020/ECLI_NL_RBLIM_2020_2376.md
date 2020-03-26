@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2020:2376"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0095"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0095", "PR-Updates.nl 2020-0095"]
 ---
 
 # ECLI:NL:RBLIM:2020:2376 Rechtbank Limburg , 26-03-2020 / C/03/244693 / FA RK 17-5068

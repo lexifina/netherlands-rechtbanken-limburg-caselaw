@@ -1,0 +1,149 @@
+---
+ecli: "ECLI:NL:RBLIM:2020:5172"
+court: "Rechtbank Limburg"
+court_code: "RBLIM"
+docket: "AWB - 19 _ 1409"
+decided: "2020-07-15"
+published: "2020-07-15"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2020:5172"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBLIM:2020:5172 Rechtbank Limburg , 15-07-2020 / AWB - 19 _ 1409
+
+## Inhoudsindicatie
+
+Overdragen van gemeentelijke taken aan verweerder, de Regionale Uitvoeringsdienst Zuid-Limburg (RUD-ZL). Plaatsingsbesluit. De betrokken ambtenaar is het niet eens met een aantal negatieve (financiële) gevolgen, die voortvloeien uit de overgang van de gemeente naar de RUD-ZL.
+
+Verweerder heeft enkel toepassing hoeven geven aan het Sociaal Plan. De Overgangsregeling (van de gemeente) behoort niet tot zijn bevoegdheid. Het Sociaal Statuut (van de gemeente) bindt verweerder niet. Geen grond om van het Sociaal Plan af te wijken voor wat betreft inkomensgarantie,
+
+werkgelegenheidsgarantie, verlofuren, reiskostenvergoeding en reistijdcompensatie.
+
+## Uitspraak
+
+RECHTBANK limburg
+
+Zittingsplaats Maastricht
+
+Bestuursrecht
+
+zaaknummer: AWB/ROE 19/1409
+
+uitspraak van de meervoudige kamer van 15 juli 2020 in de zaak tussen
+
+[naam 1] , te [woonplaats] , eiser
+(gemachtigde: mr. M.J.O.F. Rutten),
+
+en
+
+het dagelijks bestuur van de RUD Zuid-Limburg, verweerder
+(gemachtigde: mr. L.S. van Loon).
+
+Procesverloop
+
+Bij besluit van 21 december 2018 (het primaire besluit) heeft verweerder eiser met ingang van 1 januari 2019 geplaatst en aangesteld in de functie van [functienaam 1] bij de afdeling Specialismen, [salarisschaal] , in vaste dienst bij de Regionale Uitvoeringsdienst Zuid-Limburg (de RUD-ZL).
+
+Bij besluit van 11 april 2019 (het bestreden besluit) heeft verweerder de bezwaren van eiser deels gegrond en ongegrond verklaard.
+
+Eiser heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 11 februari 2020. De zaak is gevoegd behandeld met de zaken ROE 19/1408 (een ander beroep van eiser), ROE 19/1389, ROE 19/1406, ROE 19/1399, ROE 19/1390, ROE 19/1435. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam 2] ( [functie] ).
+
+De rechtbank heeft het onderzoek ter zitting geschorst, omdat de rechtbank het college van burgemeester en wethouders van de gemeente Sittard-Geleen (het verwerende bestuursorgaan) in de gevoegde zaken ROE 19/1390, ROE 19/1399, ROE 19/1406 en ROE 19/1408 in de gelegenheid heeft gesteld een nader standpunt in de nemen over de compensatie van verlofuren, hetgeen tot gevolg heeft gehad dat het onderzoek in deze zaak ook niet gesloten kon worden. Vervolgens heeft de rechtbank met toepassing van artikel 8:64, vijfde lid, van de Algemene wet bestuursrecht (Awb) bepaald dat een nadere zitting achterwege blijft, omdat partijen desgevraagd niet hebben aangegeven gebruik te willen maken van hun recht om op een nadere zitting te worden gehoord. De rechtbank heeft het onderzoek op 30 juni 2020 gesloten.
+
+De gevoegde zaken met de hiervoor genoemde registratienummers zijn na de sluiting van het onderzoek weer gesplitst. In deze zaken heeft de rechtbank heden afzonderlijk uitspraak gedaan.
+
+Overwegingen
+
+1. Eiser is van 1 september 2005 tot 1 januari 2019 werkzaam geweest voor de gemeente Sittard-Geleen in de functie van [functienaam 2] .
+
+2. Op 1 juli 2013 is de RUD-ZL opgericht als een gemeenschappelijke regeling voor vergunningverlening, toezicht, handhaving en milieuadvies voor de provincie Limburg en 18 Limburgse gemeenten, waaronder de gemeente Sittard-Geleen. Vanaf dat moment is de RUD-ZL actief en is het provinciale- en gemeentelijke personeel, waaronder eiser, op detacheringsbasis werkzaam geweest op het kantoor van de RUD-ZL in Maastricht in afwachting van een definitieve plaatsing bij de RUD-ZL.
+
+3. Op 28 juni 2017 heeft verweerder het Sociaal Plan RUD Zuid-Limburg (het Sociaal Plan) vastgesteld. Dit Sociaal Plan is het onderhandelingsresultaat van het Bijzonder Georganiseerd Overleg (BGO), waaraan verweerder (als toekomstige werkgever) en vakorganisaties FNV Overheid en CNV Overheid (als vertegenwoordigers van de toekomstige werknemers) hebben deelgenomen. In dit Sociaal Plan zijn – kort gezegd – de afspraken vastgelegd over de wijze waarop definitieve plaatsing van de (toekomstige) medewerkers zal plaatsvinden. Verder zijn in het Sociaal Plan onderwerpen zoals werkgelegenheid, inkomensgarantie en tegemoetkoming extra kosten van woon-werkverkeer opgenomen. Eventuele verschillen tussen de arbeidsvoorwaarden van de organisatie waarvan de medewerker afkomstig is en de RUD-ZL lossen deze zogenaamde latende organisaties (in het geval van eiser is dit de gemeente Sittard-Geleen) met hun medewerkers op aan de hand van hun eigen Sociaal Plan of via maatwerkafspraken.
+
+4. Bij brief van 18 december 2017 heeft het college van burgemeester en wethouders van de gemeente Sittard-Geleen eiser aangewezen als taakvolger in de zin van het Sociaal Plan voor de RUD-ZL en dus aangewezen als medewerker, die in aanmerking komt voor een aanstelling binnen de RUD-ZL.
+
+5. Bij brief van 4 december 2018 heeft verweerder eiser in kennis gesteld van zijn voornemen om hem per 1 januari 2019 aan te stellen in zijn organisatie en hem te plaatsen in de functie van [functienaam 1] bij de afdeling Specialismen, [salarisschaal] . Eiser heeft hiertegen een zienswijze ingediend.
+
+6. Bij besluit van 21 december 2018 heeft het college van burgemeester en wethouders van de gemeente Sittard-Geleen aan eiser per 1 januari 2019 eervol ontslag verleend op grond van artikel 8:3 van de Collectieve Arbeidsvoorwaardenregeling / Uitwerkingsovereenkomst (CAR/UWO). Op diezelfde dag heeft het college van burgemeester en wethouders van de gemeente Sittard-Geleen de “Regeling overgang medewerkers naar RUD-Zuid-Limburg” (de Overgangsregeling) vastgesteld. In deze regeling zijn aanvullende afspraken gemaakt voor de medewerkers van de gemeente Sittard-Geleen die overgaan naar de RUD-ZL, te weten afspraken over een inkomensgarantie, een werkgelegenheidsgarantie en een afkoopsom voor het verminderen van het aantal verlof- en dienstvrije uren.
+
+7. Eveneens op 21 december 2018 heeft verweerder het primaire besluit genomen, waarbij eiser is geplaatst en aangesteld in dienst van de RUD-ZL. Het betreft een vaste aanstelling in algemene dienst per 1 januari 2019. Verder heeft verweerder in het primaire besluit besloten dat in het geval er sprake is van een verschil in inkomen tussen het laatst verdiende loon van eiser bij de gemeente Sittard-Geleen en het toegekende salaris bij de RUD-ZL aan eiser een garantietoelage wordt toegekend door verweerder ter hoogte van het bedrag dat het college van burgemeester en wethouders van de gemeente Sittard-Geleen bij het ontslagbesluit als “rugzakje” aan eiser heeft toegekend. Deze garantietoelage kan in hoogte variëren naar gelang salarisontwikkelingen, aldus verweerder. Ook wordt aan eiser op grond van artikel 14 van het Sociaal Plan een reiskostenvergoeding voor de meerkosten woon-werkverkeer toegekend. Deze vergoeding is door verweerder vastgesteld op € 90,13  per maand, gebaseerd op 26,6 meer kilometers woon-werkverkeer per dag à € 0,19 per kilometer, waarbij is uitgegaan van 5 werkdagen per week.
+
+8. Eiser heeft tegen het primaire besluit bezwaar gemaakt bij verweerder en heeft dit bezwaar op 26 februari 2019 op een hoorzitting van de bezwaarcommissie Sociaal Plan RUD Zuid-Limburg (de bezwaarcommissie) toegelicht. De bezwaarcommissie heeft verweerder op 4 maart 2019 geadviseerd het bezwaar deels gegrond en deels ongegrond te verklaren. De bezwaarcommissie heeft verweerder aangeraden het primaire besluit in stand te laten, met dien verstande dat een berekening wordt bijgevoegd, welke inzicht geeft in de precieze effecten voor eiser van de overgang van de gemeente Sittard-Geleen naar de RUD-ZL. Tevens heeft de bezwaarcommissie verweerder geadviseerd in het bestreden besluit gemotiveerd een afweging te maken over het al dan niet toepassen van de hardheidsclausule. Verweerder heeft vervolgens het bestreden besluit genomen, met overneming van het advies van de bezwaarcommissie.
+
+9. Eiser heeft zich ook niet kunnen verenigen met het bestreden besluit en heeft hiertegen beroep ingesteld. Eiser heeft in beroep naar voren gebracht dat de overgang van de gemeente Sittard-Geleen naar de RUD-ZL voor hem negatieve gevolgen heeft. Onder verwijzing naar het Sociaal Statuut van de gemeente Sittard-Geleen van 2003 (het Sociaal Statuut) is eiser de mening toegedaan dat de overgang naar de RUD-ZL dient plaats te vinden met behoud van gelijkwaardige arbeidsvoorwaarden. Voor eiser is het niet duidelijk welke zaken door de gemeente Sittard-Geleen dan wel door verweerders organisatie zouden moeten worden geregeld. Eiser is daarom zowel tegen het ontslagbesluit (van de gemeente Sittard-Geleen; zoals hiervoor onder het procesverloop reeds is vermeld, is deze zaak bekend bij deze rechtbank onder registratienummer ROE 19/1408) als tegen het aanstellings- en plaatsingsbesluit van verweerder in rechte opgekomen. Volgens eiser is zowel het Sociaal Plan als de Overgangsregeling van de gemeente Sittard-Geleen in strijd met het Sociaal Statuut van laatstgenoemde gemeente. Uit het Sociaal Statuut blijkt namelijk dat verweerder aan eiser een arbeidsvoorwaardenpakket moet aanbieden, dat in zijn totaliteit ten minste gelijkwaardig is aan het arbeidsvoorwaardenpakket dat voor hem bij de gemeente Sittard-Geleen gold. Tevens blijkt uit het Sociaal Statuut dat dit moet worden vastgelegd in een door verweerders organisatie en de gemeente Sittard-Geleen ondertekende overeenkomst. Volgens eiser is dit ten onrechte niet gebeurd, zodat onjuist en in strijd met het Sociaal Statuut is gehandeld door zowel verweerder als de gemeente Sittard-Geleen. Verder is er door deze gang van zaken volgens eiser in strijd gehandeld met de in artikel 125ter van de Ambtenarenwet genoemde eis van goed werkgeverschap. Eiser stelt vast dat in het Sociaal Plan en in de Overgangsregeling weliswaar enkele compenserende maatregelen zijn opgenomen, maar eiser is de mening toegedaan dat hij – gelet op het Sociaal Statuut – recht heeft op verdergaande compensatie. Eiser merkt in dit verband nog op dat het Sociaal Plan en de Overgangsregeling zijn vastgesteld zonder positief resultaat van de door de werknemersdelegatie van het BGO van de RUD-ZL respectievelijk het Georganiseerd Overleg (GO) van de gemeente Sittard-Geleen gehouden achterbanraadpleging. Eiser heeft verder aangevoerd dat de onderhavige situatie vergelijkbaar is met een situatie, die in het kader van het privaatrecht als “overgang van (een deel van een) onderneming” wordt bestempeld. Een goed werkgever moet in een dergelijk geval “in totaliteit gelijkwaardige arbeidsvoorwaarden bij de overgang” garanderen. Volgens eiser heeft het Ministerie van Binnenlandse Zaken de afgelopen jaren regelmatig uitgesproken dat eenzelfde bescherming voor ambtenaren geldt. Gelet op het voorgaande, stelt eiser zich op het standpunt dat hij recht heeft op:
+
+- een (duidelijke) inkomensgarantie tot aan het bereiken van de AOW-gerechtigde leeftijd;
+
+- een werkgelegenheidsgarantie bij verweerders organisatie tot aan het bereiken van de AOW-gerechtigde leeftijd;
+
+- een aanvulling op het aantal verlofuren tot het aantal verlofuren, waarop conform de arbeidsvoorwaarden van de gemeente Sittard-Geleen recht bestaat, op dit moment en in de toekomst tot aan het bereiken van de AOW-gerechtigde leeftijd;
+
+- een aanvulling op de reiskosten, waardoor de werkelijke meerkosten (inclusief kosten afschrijving, onderhoud en brandstof auto) volledig worden gedekt tot aan het bereiken van de AOW-gerechtigde leeftijd;
+
+- een compensatie voor de extra reistijd tot aan het bereiken van de AOW-gerechtigde leeftijd.
+
+10. De rechtbank overweegt in het licht van de aangevoerde beroepsgronden als volgt.
+
+11. Met betrekking tot de omvang van het geding stelt de rechtbank vast dat het beroep van eiser zich richt tegen het bestreden besluit, voor zover dat besluit ziet op een aantal negatieve (financiële) gevolgen, die voortvloeien uit de overgang van eiser naar de RUD-ZL. Het beroep richt zich dus niet op de plaatsing en de aanstelling in de functie van [functienaam 1] (bij de afdeling Specialismen) bij verweerders organisatie als zodanig.
+
+12. De rechtbank overweegt voorts dat het Sociaal Plan van toepassing is op de overgang van eiser naar de RUD-ZL. Tevens heeft de gemeente Sittard-Geleen in aanvulling op het Sociaal Plan de Overgangsregeling vastgesteld. Verweerder heeft in het bestreden besluit terecht en op goede gronden enkel toepassing gegeven aan het Sociaal Plan, omdat de Overgangsregeling niet tot zijn bevoegdheid behoort. Dit geldt eveneens voor het beroep van eiser op het Sociaal Statuut van de gemeente Sittard-Geleen. Dit Sociaal Statuut bindt verweerder niet. Voor zover eiser meent rechten te kunnen ontlenen aan het Sociaal Statuut of de Overgangsregeling dient hij zich hiervoor te richten tot de gemeente Sittard-Geleen. Dit betekent onder meer dat eisers beroepsgronden over een terugkeergarantie en een afkoopsom van verlofuren hier niet aan bod kunnen komen.
+
+13. De rechtbank stelt vast dat het Sociaal Plan een algemeen verbindend voorschrift is als bedoeld in artikel 8:3, eerste lid, aanhef en onder a, van de Awb. Volgens vaste rechtspraak van de Centrale Raad van Beroep (CRvB; zie onder meer de uitspraak van 27 februari 2019, ECLI:NL:CRVB:2019:628) heeft in het algemeen te gelden dat bij het tot stand brengen van algemeen verbindende voorschriften het in beginsel aan de materiële wetgever is voorbehouden om alle betrokken belangen af te wegen en moet de rechter het resultaat daarvan respecteren. Dit uitgangspunt lijdt uitzondering indien aan de inhoud of de wijze van totstandkoming van een algemeen verbindend voorschrift zodanige ernstige gebreken kleven dat dit voorschrift om die reden niet als grondslag kan dienen voor daarop in concrete gevallen te baseren besluiten. Dat brengt met zich dat de rechter bij de behandeling van een beroep dat tegen een in concreto genomen besluit is ingesteld, ook gehouden is om te toetsen of het desbetreffende algemeen verbindende voorschrift een voldoende deugdelijke grondslag voor dat besluit vormt. Bij die, niet rechtstreekse, toetsing van het algemeen verbindende voorschrift vormen de algemene rechtsbeginselen en de algemene beginselen van behoorlijk bestuur een belangrijk richtsnoer. De rechter dient zich bij die toetsing terughoudend op te stellen.
+
+14. Zoals hiervoor reeds is vermeld, is het Sociaal Plan van de RUD-ZL tot stand gekomen na overleg daarover met de vertegenwoordiging van werknemersdelegaties en werkgeverdelegaties in het BGO.
+
+15. Ten aanzien van de door eiseres gewenste inkomensgarantie tot aan het bereiken van de AOW-gerechtigde leeftijd verwijst de rechtbank naar artikel 10 van het Sociaal Plan. In het eerste lid van dit artikel is bepaald dat de ambtenaar het recht op salaris behoudt en het perspectief tot en met het maximum van zijn functieschaal inclusief een individuele persoonsgebonden garantie, die bij de latende organisatie schriftelijk is vastgelegd vermeerderd met het bedrag van de TOR, zoals die voor hem geldt in zijn functie op de dag voorafgaande aan plaatsing in de RUD en zoals gegarandeerd door de latende organisatie. Volgens artikel 10, derde lid, van het Sociaal Plan wordt de garantietoelage eenmalig vastgesteld op het moment van indiensttreding bij de RUD-ZL en volgt deze algemene salarisontwikkeling van de RUD-ZL.
+
+16. De rechtbank is van oordeel dat bovenstaande regeling is opgesteld om achteruitgang in salaris bij een overgang naar de RUD-ZL tegen te gaan. Bij het bestreden besluit heeft verweerder uitvoering gegeven aan artikel 10 van het Sociaal Plan en is aan eiser een garantietoelage van € 503,69 bruto per maand toegekend. Eiser heeft de hoogte van deze garantietoelage niet betwist. De rechtbank is van oordeel dat verweerder met het toekennen van deze garantietoelage in redelijkheid heeft voorzien in een inkomensgarantie voor eiser tot aan zijn AOW-gerechtigde leeftijd. Immers, het loon dat eiser ontvangt bij de RUD-ZL samen met de toegekende garantietoelage is gelijk aan zijn salarisperspectief bij de gemeente Sittard-Geleen.
+
+17. Met betrekking tot de door eiser gewenste werkgelegenheidsgarantie bij verweerders organisatie tot aan het bereiken van de AOW-gerechtigde leeftijd, overweegt de rechtbank dat verweerder in dit kader heeft kunnen verwijzen naar artikel 16 van het Sociaal Plan, waarin over werkgelegenheidsgarantie het volgende is bepaald:
+
+“Bestuur en medewerkers zijn erbij gebaat dat maximaal wordt ingezet op de inzetbaarheid van de medewerker in arbeid nu en in de toekomst. Reorganisatieontslag wordt niet verleend voor zolang het takenpakket van de RUD Zuid-Limburg per 1 januari 2017 niet afneemt en medewerkers bereid zijn zich door te ontwikkelen en te groeien in toekomstige veranderingen binnen de organisatie. Hiertoe ontwikkelt het bestuur strategisch personeelsbeleid, gericht op duurzame en langdurige kwaliteit en inzetbaarheid van de medewerker van de RUD Zuid-Limburg. Dit beleid en de controleerbaarheid daarvan komt in dialoog met de ondernemingsraad en de vakbonden tot stand.”.
+
+De rechtbank is van oordeel dat verweerder hiermee in het Sociaal Plan een geclausuleerde werkgelegenheidsgarantie biedt op grond waarvan eiser niet onvrijwillig werkloos zal worden. In het geval het takenpakket van de RUD-ZL afneemt (en deze taken terug gaan naar de provincie Limburg dan wel de deelnemende gemeenten) is de rechtbank ambtshalve bekend dat de gemeente Sittard-Geleen in de Overgangsregeling heeft aangegeven dat de op dat moment met die taken belaste medewerker deze taken volgt en daardoor in dienst van de gemeente Sittard-Geleen komt, hetgeen betekent dat dit verlies aan taken voor de RUD-ZL niet zal leiden tot een reorganisatieontslag. Of ook de andere deelnemende gemeenten of de provincie een dergelijke regeling hebben opgesteld, is de rechtbank niet bekend. Wat hier verder ook van zij, de rechtbank is van oordeel dat verweerder – met uitzondering van verlies van het takenpakket, hetgeen een omstandigheid is die buiten de invloedssfeer van verweerder valt – de intentie heeft om er voor te zorgen dat de werkgelegenheid van de ambtenaren van de RUD-ZL behouden blijft. Het verlenen van een onvoorwaardelijke werkgelegenheidsgarantie tot aan zijn pensioen, zoals eiser wenst, acht de rechtbank niet redelijk.
+
+18. Voor zover eiser heeft aangevoerd dat verweerder zijn verlofuren moet aanvullen tot de verlofuren, waarop hij conform de arbeidsvoorwaarden van de gemeente Sittard-Geleen recht heeft, overweegt de rechtbank het volgende. Verweerder houdt de verlofregels aan voor de sector gemeenten (CAR/UWO), welke regels ook door de gemeente Sittard-Geleen worden gevolgd. Naar het oordeel van de rechtbank heeft verweerder in redelijkheid de verlofregels van de CAR/UWO kunnen aanhouden. De rechtbank is verder van oordeel dat verweerder zich terecht op het standpunt heeft gesteld dat in het geval eiser bij de gemeente Sittard-Geleen recht had op meer verlof- en dienstvrije uren, hij zich hiervoor dient te wenden tot deze gemeente om maatwerkafspraken te maken.
+
+19. Eiser heeft voorts aangevoerd dat hij een volledige reiskostenvergoeding wil hebben en reistijdcompensatie.
+
+20. De rechtbank stelt vast dat verweerder in dit kader uitvoering heeft gegeven aan artikel 14 van het Sociaal Plan. In het eerste lid van dit artikel is bepaald dat de ambtenaar die als gevolg van een gewijzigde standplaats een grotere afstand woon-werkverkeer heeft, een tegemoetkoming ontvangt in de meerkosten van het reizen per auto van € 0,19 per kilometer. Verweerder heeft eiser op basis van voornoemd artikel reiskosten toegekend voor de meerkosten woon-werkverkeer. Naar het oordeel van de rechtbank is verweerder met het toekennen van deze extra reiskosten in alle redelijkheid tegemoet gekomen aan eiser. Dat de kosten van afschrijving, onderhoud en brandstof van de auto met de toegekende reiskosten niet worden gedekt, hoeft niet van verweerder te worden verwacht. Het is de keuze van eiser om, om zijn moverende redenen, geen gebruik te maken van het openbaar vervoer dat volledig door verweerder wordt gecompenseerd. Voor zover eiser financieel nadeel lijdt door deze keuze, dient dit voor rekening van eiser te blijven en kan dit niet worden toegerekend aan verweerder.
+
+21. De rechtbank is voorts gebleken dat verweerder ten aanzien van de extra reistijd als gevolg van de wijziging van de standplaats van eiser geen reiscompensatie heeft toegekend. Verweerder heeft daarbij uitvoering gegeven aan artikel 14, vierde lid, van het Sociaal Plan, waarin is bepaald dat er geen sprake is van reistijdcompensatie en dat in uitzonderlijke gevallen de [functie] met de ambtenaar een individuele afspraak kan maken. Vast staat dat eiser niet heeft aangegeven en aannemelijk gemaakt aan de [functie] dat in zijn situatie sprake is van uitzonderlijke omstandigheden. Het enkele feit dat eiser door de overgang naar de RUD-ZL gecompenseerd moet worden in reistijd, is daartoe onvoldoende en biedt geen grondslag om van het Sociaal Plan af te wijken in een voor eiser gunstige zin.
+
+22. De rechtbank is verder van oordeel dat toepassing van het Sociaal Plan in het geval van eiser niet leidt tot een onbillijke situatie als bedoeld in artikel 17 van het Sociaal Plan. Eiser heeft niet aannemelijk gemaakt dat hij een onevenredig nadeel ondervindt. Verweerder heeft dan ook een beroep op de hardheidsclausule in redelijkheid kunnen afwijzen.
+
+23. Eiser heeft voorts geen concrete gronden genoemd waaruit blijkt dat er zodanige ernstige gebreken kleven aan de inhoud of wijze van totstandkoming van het Sociaal Plan dat moet worden afgeweken van het uitgangspunt dat de rechter het resultaat van de afweging van alle betrokken belangen door de materiële wetgever moet respecteren. Het Sociaal Plan is niet eenzijdig opgesteld door verweerder in zijn hoedanigheid als werkgever, maar in overleg met werknemersdelegaties en werkgeverdelegaties. Voorts is gebleken dat er een informele achterbanraadpleging door de vakorganisaties heeft plaatsgevonden met een positieve ontvangst. Dat geen officiële achterbanraadpleging (en -akkoord) heeft plaatsgevonden, maakt niet dat het Sociaal Plan (inhoudelijk) onzorgvuldig tot stand is gekomen. De rechtbank is verder van oordeel dat verweerder met het vaststellen van het Sociaal Plan de grenzen van de hem toekomende beslissingsruimte niet heeft overschreden.
+
+24. Niet gebleken is dat het bestreden besluit tot stand is gekomen in strijd met de algemene rechtsbeginselen en de algemene beginselen van behoorlijk bestuur.
+
+25. Gelet op het voorgaande ziet de rechtbank niet in dat verweerder met het Sociaal Plan de door eiser gestelde belangen onvoldoende zou hebben behartigd en zodoende zijn zorgplicht als bedoeld in artikel 125ter van de Ambtenarenwet zou hebben geschonden.
+
+26. Voor zover eiser een beroep heeft gedaan op Richtlijn 2001/23/EG van de Raad van de Europese Unie van 12 maart 2001 inzake de onderlinge aanpassing van wetgevingen der lidstaten betreffende het behoud van de rechten van de werknemers bij overgang van ondernemingen, vestigingen of onderdelen van ondernemingen of vestigingen (de richtlijn), overweegt de rechtbank dat het Hof van Justitie van EG in zijn arrest van 14 september 2000 (ECLI:EU:C:2000:441, Collino en Chiappero/Telecom Italia) uitdrukkelijk heeft aangegeven dat deze richtlijn niet van toepassing is op personen die niet krachtens nationale wetgeving als werknemer bescherming genieten, ongeacht de werkzaamheden die zij uitoefenen. Dit betekent dat eiser als ambtenaar zijnde zich niet kan beroepen op deze richtlijn en de daarop gebaseerde bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek.
+
+27. Nu de door eiser naar voren gebrachte beroepsgronden niet slagen, is het beroep ongegrond.
+
+28. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De rechtbank verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. F.A.G.M. Vluggen (voorzitter), en mr. E.M.J. Hardy en mr. P.J.M. Bruijnzeels, leden, in aanwezigheid van mr. D.H.J. Laeven, griffier, op 15 juli 2020
+
+Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.
+
+griffier	rechter/voorzitter
+
+de rechter is verhinderd deze uitspraak te ondertekenen
+
+Afschrift verzonden aan partijen op: 15 juli 2020
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.

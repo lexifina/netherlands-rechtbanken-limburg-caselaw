@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2020:8678"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0185", "PJ 2021/21"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0185", "PJ 2021/21", "PR-Updates.nl 2020-0185"]
 ---
 
 # ECLI:NL:RBLIM:2020:8678 Rechtbank Limburg , 04-11-2020 / C/03/275179 / HA ZA 20-134

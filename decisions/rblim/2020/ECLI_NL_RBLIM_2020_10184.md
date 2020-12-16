@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2020:10184"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0025"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0025", "PR-Updates.nl 2021-0025"]
 ---
 
 # ECLI:NL:RBLIM:2020:10184 Rechtbank Limburg , 16-12-2020 / C/03/281996 / HA ZA 20-440

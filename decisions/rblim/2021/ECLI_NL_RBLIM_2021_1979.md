@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:1979"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0072"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0072", "PR-Updates.nl 2021-0072"]
 ---
 
 # ECLI:NL:RBLIM:2021:1979 Rechtbank Limburg , 03-03-2021 / 8499584 CV EXPL 20-2065

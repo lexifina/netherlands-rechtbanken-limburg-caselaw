@@ -1,0 +1,1522 @@
+---
+ecli: "ECLI:NL:RBLIM:2021:5442"
+court: "Rechtbank Limburg"
+court_code: "RBLIM"
+docket: "03/702616-15 en 03/702646-17"
+decided: "2021-07-09"
+published: "2021-07-08"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:5442"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:843"]]
+---
+
+# ECLI:NL:RBLIM:2021:5442 Rechtbank Limburg , 09-07-2021 / 03/702616-15 en 03/702646-17
+
+## Inhoudsindicatie
+
+Onderzoek Kievit/Bandidos. Gevangenisstraf van 14 maanden wegens deelneming (als leider) aan een criminele organisatie gericht op bedreiging/openlijk geweld, openlijke geweldpleging en bezit hasjiesj. Vrijspraak van witwassen motorfiets. Strafkorting (30%) wegens schending redelijke termijn.
+
+## Uitspraak
+
+RECHTBANK LIMBURG
+
+Zittingsplaats Maastricht
+
+Strafrecht
+
+Parketnummers: 03/702616-15 en 03/702646-17 (ttz.gev)
+
+Tegenspraak
+
+Vonnis van de meervoudige kamer d.d. 9 juli 2021
+
+in de strafzaak tegen
+
+[verdachte 10] ,
+
+geboren te [geboortegegevens] 1963,
+
+wonende te [adres 8] .
+
+De verdachte wordt bijgestaan door mr. L.J.B.G. van Kleef, advocaat kantoorhoudende te Amsterdam.
+
+1
+Onderzoek van de zaak
+
+De zaak is inhoudelijk behandeld op de zittingen van:
+
+29, 30 en 31 maart 2021,
+
+6, 7, 13, 14, 19, 21, 26 en 28 april 2021,
+
+3, 4, 25, 26, 27 en 28 mei 2021,
+
+en op 9 juli 2021 is het onderzoek gesloten.
+
+De verdachte is op 14 april 2021 verschenen en zijn raadsman is op meerdere dagen verschenen. Het Openbaar Ministerie en de verdediging hebben hun standpunten kenbaar gemaakt.
+
+2
+De tenlastelegging
+
+De tenlastelegging is als bijlage aan dit vonnis gehecht. De verdenking komt er, kort en feitelijk weergegeven, op neer dat de verdachte:
+
+in de zaak met parketnummer 03/702616-15:
+
+als leider heeft deelgenomen aan een criminele organisatie bestaande uit de leden van MC Bandidos (chapter Sittard);
+
+openlijk en in vereniging geweld heeft gepleegd;
+
+in de zaak met parketnummer 03/702646-17:
+
+84 gram hasjiesj aanwezig heeft gehad;
+
+een motorfiets heeft witgewassen.
+
+3
+De beoordeling van het bewijs
+
+3.1
+
+Inleiding
+
+In april 2014 startte de politie Limburg onderzoek ‘Kievit’. Dit onderzoek richtte zich in aanvang op [verdachte 1] en vermeende drugsdelicten. Later breidde het zich uit naar het Sittardse chapter van de motorclub Bandidos. Dat resulteerde in verdenkingen van onder meer drugsdelicten, afpersingen en/of diefstallen met geweld, openlijke geweldpleging en wapenbezit. Nader financieel onderzoek leidde bovendien tot verdenkingen van witwassen, ook tegen familieleden van leden van de Bandidos.
+
+Het opsporingsonderzoek heeft geresulteerd in een omvangrijk dossier, dat bestaat uit onder meer ruim 20 afzonderlijke zaakdossiers. Uiteindelijk zijn 25 verdachten vervolgd door het Openbaar Ministerie.
+
+Een deel van de vermeende strafbare feiten is aan verdachte ten laste gelegd. De rechtbank zal hieronder per ten laste gelegd feit aangeven of zij dit bewezen acht. Ten behoeve van de overzichtelijkheid zal de rechtbank ook per feit aangeven indien daar tot (partiële) vrijspraak wordt gekomen.
+
+3.2
+
+Het standpunt van het Openbaar Ministerie
+
+Het Openbaar Ministerie heeft gerekwireerd tot bewezenverklaring van deelname, als leider, aan een criminele organisatie (feit 1 in de zaak 03/702616-15), openlijke geweldpleging (feit 2 in de zaak 03/702616-15) en het aanwezig hebben van hasjiesj (feit 1 in de zaak 03/702646-17). Het Openbaar Ministerie heeft tot vrijspraak gerekwireerd voor wat betreft het witwassen van een motorfiets (feit 2 in de zaak 03/702646-17).
+
+3.3
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich op het standpunt gesteld dat de verdachte moet worden vrijgesproken van:
+
+het als leider deelnemen aan een criminele organisatie (feit 1 in de zaak 03/702616-15), nu niet is gebleken dat de Bandidos MC een crimineel oogmerk had;
+
+openlijke geweldpleging (feit 2 in de zaak 03/702616-15), omdat de verdachte daaraan geen voldoende significante bijdrage heeft geleverd;
+
+het aanwezig hebben van hasjiesj (feit 1 in de zaak 03/702646-17), omdat niet is vast te stellen dat die hasjiesj onder de heerschappij van de verdachte viel;
+
+het witwassen van een motorfiets (feit 2 in de zaak 03/702646-17), omdat niet is gebleken dat die van misdrijf afkomstig was.
+
+De standpunten van het Openbaar Ministerie en de verdediging zullen, voor zover van belang, bij de beoordeling van het bewijs nader worden weergegeven dan wel impliciet worden besproken.
+
+3.4
+
+De overwegingen en het oordeel van de rechtbank
+
+Voor de leesbaarheid heeft de rechtbank de inhoud van wettige bewijsmiddelen, houdende voor de bewezenverklaring redengevende feiten en omstandigheden, in bijlage II opgenomen.
+
+3.4.1
+
+Criminele organisatie (ZD 1 / feit 1 in de zaak 03/702616-15)
+
+De rechtbank acht op grond van de in bijlage II opgenomen bewijsmiddelen bewezen dat de verdachte heeft deelgenomen aan een criminele organisatie, terwijl hij bovendien oprichter, leider, of bestuurder was van die organisatie. Daartoe overweegt de rechtbank als volgt.
+
+Uitgangspunt
+
+De rechtbank stelt voorop dat van deelneming aan een organisatie als bedoeld in artikel 140 Sr slechts dan sprake kan zijn, indien de verdachte behoort tot het samenwerkingsverband en een aandeel heeft in, dan wel ondersteunt, gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het in dat artikel bedoelde oogmerk.
+
+Organisatie
+
+Voor de bewezenverklaring van 'een organisatie' als bedoeld in art. 140 Sr is vereist dat sprake is van een samenwerkingsverband, met een zekere duurzaamheid en structuur, tussen de verdachte en tenminste één andere persoon.
+
+Op grond van de in de bijlage II opgenomen bewijsmiddelen stelt de rechtbank de volgende feiten en omstandigheden vast.
+
+Het Sittardse chapter van de Bandidos MC werd opgericht in maart 2014 met onder meer [verdachte 10] als president en [verdachte 1] als vice-president. Medio maart/april 2015 telde het chapter, zonder de zogenaamde supportclubs Chicanos en X-time, zo’n 22 (kader)leden, prospects en hangarounds. Leden betaalden contributie en men vergaderde nagenoeg wekelijks. Uit de zogenaamde Bandidos-bijbel en de Holland regels blijkt van zowel uniforme Europese regels als lokale regels voor de club en haar leden.
+
+Op grond hiervan stelt de rechtbank vast dat de leden van het Sittardse chapter van de Bandidos MC een samenwerkingsverband met een zekere duurzaamheid en structuur vormden: een organisatie.
+
+Oogmerk
+
+Om van een ‘criminele’ organisatie te kunnen spreken, moet die organisatie het doel hebben misdrijven te plegen. Daarbij is niet nodig dat het plegen van misdrijven het einddoel van de organisatie is. De misdrijven hoeven nog niet te zijn begaan. Voor het bewijs van het oogmerk kan onder meer betekenis toekomen aan misdrijven die in het kader van de organisatie reeds zijn gepleegd, aan het meer duurzame of gestructureerde karakter van de samenwerking, zoals daarvan kan blijken uit de onderlinge verdeling van werkzaamheden of onderlinge afstemming van activiteiten van deelnemers binnen de organisatie met het oog op het bereiken van het gemeenschappelijke doel van de organisatie, en, meer algemeen, aan de planmatigheid of stelselmatigheid van de met het oog op dit doel verrichte activiteiten van deelnemers binnen de organisatie.
+
+In deze zaak is ten laste gelegd het oogmerk tot het plegen van afpersingen, diefstal met geweld, bedreiging, openlijk geweld en verboden wapenbezit.
+
+Op grond van de in de bijlage II opgenomen bewijsmiddelen stelt de rechtbank de volgende feiten en omstandigheden vast.
+
+De oprichting van het Sittardse chapter van de Bandidos werd daags erna gevolgd door een granaataanslag op de woning van [verdachte 10] . Nadien volgden nog twee granaataanslagen op de woningen van [verdachte 10] en [verdachte 14] en een aanslag op een café in Echt waar de Bandidos regelmatig bij elkaar kwamen, allemaal in 2014. Daders van deze aanslagen zijn niet gevonden, maar tekenen wel de sfeer omtrent de motorclub.
+
+Problemen met de Hells Angels
+
+In augustus 2014 werd de rivaliteit tussen de motorclubs Bandidos en Hells Angels openlijk zichtbaar door een confrontatie tussen die twee clubs in Alkmaar. Begin 2015 zijn de eerste duidelijke tekenen van problemen met de motorclub Hells Angels zichtbaar in Limburg. Dat er ook daadwerkelijk sprake was van een vete tussen beide blijkt ook wel uit de diverse in de bewijsmiddelen opgenomen communicatie en verslagen: regelmatig zijn de Hells Angels, HA, of “81” - dat staat voor HA, de achtste en eerste letter uit het alfabet - onderwerp van gesprek.
+
+Op 24 januari 2015, een dag nadat Bandidos-lid [bandidos-lid 2] problemen zou hebben gehad met Hells Angels of sympathisanten daarvan, vond een zogenaamde klopjacht op leden van de Hells Angels plaats. Meerdere leden van de Sittardse Bandidos bezochten die avond diverse plekken waar kennelijk regelmatig leden van de Hells Angels of hun sympathisanten kwamen, doch zonder resultaat. Uit diverse afgeluisterde gesprekken blijkt echter wel dat men die avond op pad was met de bedoeling te vechten. Anders is ook niet verklaarbaar waarom [verdachte 9] bijvoorbeeld in een OVC gesprek vertelt een steekwerend vest aan te hebben.
+
+Climax van die avond was het bezoek van zeven Bandidos, aangevoerd door [verdachte 10] , aan [naam café 2] in Sittard. Daarbij werd de uitbaatster in niet mis te verstane bewoordingen duidelijk gemaakt dat leden van de Hells Angels, ‘rood/wit’, of hun supporters niet meer welkom waren en dat [verdachte 10] het café zou sluiten als hij anders constateerde.
+
+Daadwerkelijk geweld vond toen dus niet plaats, maar wel een bedreiging. Bovendien was de bedoeling van die avond wel duidelijk: klappen geven aan de leden van de Hells Angels. Mocht dat gelukt zijn, dan lag er zelfs een promotie voor één van de aanwezigen in het verschiet: [bandidos-lid 1] kon namelijk zijn colors verdienen als hij met een lid van de Hells Angels in gevecht zou gaan.
+
+Op 25 januari 2015 en 16 maart 2015 vonden vervolgens provocaties plaats van de zijde van de Hells Angels: zij bezochten [naam café 1] in Kerkrade, gelieerd aan de Bandidos, staken daar kennelijk banden lek, en bezochten een lid van de Bandidos in Susteren. Op 25 maart 2015 vond vervolgens een brandstichting plaats bij genoemd [naam café 1] . De op heterdaad aangehouden verdachte bleek een lid van de Supportcrew 81, de officiële supportclub van de Hells Angels uit Kerkrade.
+
+Op 7 mei 2015 was het anders en andersom. Toen vond de openlijke geweldpleging bij [naam café 2] in Sittard plaats. Drie aan een supportclub van de Hells Angels te linken personen werden door een grote groep Bandidos mishandeld. Uit de afgeluisterde gesprekken kan geconcludeerd worden dat dit geen uit de hand gelopen gesprek is geweest, zoals een aantal verdachten de rechtbank ter zitting hebben willen doen geloven. Een en ander is immers de dag van tevoren besproken, waarbij bijvoorbeeld was afgesproken dat hangaround [verdachte 22] niet zou meegaan, omdat ’je niet weet wat zo iemand doet als hij vast komt te zitten’. Een gesprek kent immers normaliter niet het risico van detentie.
+
+Later die avond bezochten de Sittardse Bandidos de Markt in Kerkrade, waarbij zij zich, in colors, voor het café/restaurant [naam café 3] posteerden. Die locatie is net als [naam café 2] gelieerd aan de Hells Angels, ook te zien aan het plakkaat ‘81’. Dit was een onmiskenbare provocatie.
+
+Het incident bij [naam café 2] eindigde met een schot vanuit het café naar buiten. Uit de afgeluisterde gesprekken die avond blijkt dat zulks ook reden voor diverse leden van de Bandidos is om niet meer ongewapend ergens naartoe te gaan en dat ze zich kennelijk willen bewapenen.
+
+Oogmerk: bedreiging en openlijke geweldpleging
+
+Van meerdere van de beschreven incidenten zijn Bandidos juist slachtoffer. Deze incidenten kunnen gelinkt worden aan de Hells Angels. Alles samen kenmerkt de explosieve sfeer in de motorclubwereld destijds. Op grond van dit dossier zijn de daadwerkelijke gedragingen van de Bandidos: de klopjacht op 24 januari 2015, de openlijke geweldpleging op 7 mei 2015 en de daaropvolgende provocatie richting de Hells Angels die avond. Uit de diverse afgeluisterde gesprekken, zowel in de periode voorafgaand als rondom de klopjacht en de openlijke geweldpleging, blijkt wat de bedoeling van de Sittardse Bandidos was: het stelselmatig en planmatig bestrijden van de Hells Angels alhier, waarvoor kennelijk geweld en dreiging daarmee nodig was.
+
+Dit leidt de rechtbank tot de conclusie dat het Sittardse chapter van de Bandidos MC het oogmerk had tot bedreiging en openlijke geweldpleging, in het bijzonder gericht tegen de Hells Angels en daaraan gelieerde clubs.
+
+Kenmerkend acht de rechtbank in dit kader enkele uitlatingen in de afgeluisterde gesprekken: [verdachte 9] die zegt dat ze gaan knokken; [verdachte 12] die van [naam café 2] café Knock-out wil maken; verwachte krantenkoppen inhoudende dat de Bandidos op de Hells Angels jagen; [verdachte 3] die hoopt dat ze met acht man twintig Hells Angels kunnen afslaan; [verdachte 15] die er graag in elk café twee op de bek had ‘gepompt’ en [verdachte 6] die vindt dat ze iemand verantwoordelijk moeten stellen en aanpakken. Dat er met de Hells Angels geknokt moet worden, blijkt zelfs uit afgeluisterde gesprekken tussen [verdachte 1] en zijn zoon. Voorts omschrijft [verdachte 3] de club zelf als criminelen en is het onderwerp criminele organisatie zelfs onderwerp van gesprek op een van de vergaderingen.
+
+Geen oogmerk tot afpersing / diefstal met geweld
+
+Ter onderbouwing van het vermeende oogmerk tot afpersing en diefstal met geweld zijn onder meer de zaakdossiers 2 (diefstal met geweld [slachtoffer 1] ), 3 (poging afpersing [slachtoffer 3] ), 4 (afpersing [slachtoffer 4] ), 5 (afpersing [slachtoffer 5] ), 6 (afpersing [slachtoffer 6] ) en 11 (geweld en poging afpersing [slachtoffer 10] ) opgevoerd.
+
+Anders dan het Openbaar Ministerie is de rechtbank van oordeel dat uit deze zaakdossiers niet blijkt van een oogmerk tot afpersing en/of diefstal met geweld van het Sittardse chapter van de Bandidos MC, maar van betrokkenheid van individuele leden bij strafbare feiten.
+
+Zaakdossier 2 beschrijft een diefstal van een bestelbus bij [slachtoffer 1] , waarbij [verdachte 1] , [verdachte 3] , [verdachte 7] en [verdachte 8] betrokken zijn. De achtergrond van deze diefstal is niet duidelijk geworden. Aldus kan enkel gesteld wordt dat er diverse leden van de Bandidos betrokken waren, doch niet dat de Bandidos als club betrokken was.
+
+Datzelfde geldt voor de afpersing en het witwassen van een bus van [slachtoffer 5] , zaakdossier 5. Daarbij waren betrokken [verdachte 2] en [verdachte 1] en kwam [verdachte 3] in beeld als tussenpersoon. Ook hier blijkt niet of, en zo ja op welke wijze, de club Bandidos betrokken was.
+
+De vermeende afpersingen van [slachtoffer 4] en [slachtoffer 6] kan en zal de rechtbank niet betrekken in de beoordeling. Het Openbaar Ministerie zal immers niet-ontvankelijk worden verklaard in de vervolging van de verdachten van de afpersing van [slachtoffer 4] . Daarnaast volgt uit zaakdossier 6 niet dat [slachtoffer 6] door het Sittardse chapter van de Bandidos is afgeperst, dan wel dat zij daartoe een poging hebben gedaan.
+
+De poging tot afpersing van [slachtoffer 3] was van oorsprong een privé-geschil van [verdachte 3] over een kennelijk scheef geplaatste schutting en daaropvolgende bedreigingen van [slachtoffer 3] richting het gezin van [verdachte 3] . [verdachte 3] vader ( [verdachte 4] ) en [verdachte 15] vergezelden uiteindelijk [verdachte 3] en ook [verdachte 6] en [verdachte 12] waren aanwezig toen de eerste drie [slachtoffer 3] probeerden af te persen. Ook hier geldt weer: er zijn weliswaar diverse leden van de Bandidos betrokken, doch niet blijkt dat de Bandidos als club betrokken was.
+
+Ook de geweldpleging tegen en diefstal en vermeende afpersing van [slachtoffer 10] betreffen privé-aangelegen van [verdachte 4] en [verdachte 3] . Ook hierbij is voor zover bekend, behalve het lidmaatschap van deze twee verdachten, geen relatie met het Sittardse chapter van de Bandidos te leggen.
+
+Hoewel bij de genoemde zaken dus verschillende Bandidos-leden betrokken waren, blijkt niet van afspraken daarover binnen de club, aansturing vanuit de club of enig belang of voordeel voor de club. Anders dan bijvoorbeeld de problemen met de Hells Angels blijkt niet dat deze zaken onderwerp van gesprek zijn geweest op vergaderingen. Dat er personen zijn die zich presenteerden als lid van de club, maakt naar het oordeel van de rechtbank nog niet dat daaruit een oogmerk van de club op deze feiten afgeleid kan worden. Het dossier wekt eerder de indruk dat de clubleden elkaar weten te vinden als ze versterking nodig hebben.
+
+De rechtbank acht dus niet bewezen dat het Sittardse chapter van de Bandidos ook het oogmerk had tot afpersingen of diefstal met geweld.
+
+Geen oogmerk tot verboden wapenbezit
+
+De rechtbank heeft geconcludeerd dat het Sittardse chapter van de Bandidos het oogmerk had op bedreiging en openlijke geweldpleging, in het bijzonder gericht tegen de Hells Angels en daaraan gelieerde clubs. De vraag is of in deze context het oogmerk mede bestond op verboden wapenbezit. Daarvoor ziet de rechtbank echter geen bewijs omdat bij de incidenten op 24 januari en 7 mei 2015 – met uitzondering van de boksbeugel die [verdachte 3] hanteerde – voor zover bekend verder geen wapens aanwezig waren bij leden van de Bandidos. [verdachte 15] houdt weliswaar - nadat er vanuit de [naam café 2] een schot is gelost - een voorwerp vast op een wijze die sterk doet denken aan het vasthouden van een vuurwapen, maar of het daadwerkelijk een wapen was, is niet vast te stellen.
+
+Verder valt uit het onderzoek op te maken dat bij een aantal verdachten wapens of munitie is gevonden en dat bij de zaakdossiers [slachtoffer 1] (2) en de geweldpleging tegen [slachtoffer 10] (11) wapens waren betrokken, maar hiervoor geldt een vergelijkbare redenering zoals bij het vermeende oogmerk op afpersing/diefstal: er zijn weliswaar diverse individuele leden van de Bandidos betrokken bij verboden wapenbezit, maar niet blijkt dat zij als samenwerkingsverband hierop het oogmerk hadden.
+
+De rechtbank acht dus niet bewezen dat het Sittardse chapter van de Bandidos ook het oogmerk had op verboden wapenbezit.
+
+Deelneming
+
+Nu de rechtbank heeft vastgesteld dat er sprake is van een criminele organisatie die tot oogmerk heeft het plegen van bedreigingen en openlijk geweld, zal zij thans nagaan wie er lid is van deze organisatie.
+
+Om van deelnemen in de zin van art. 140 Sr te kunnen spreken moet de verdachte (a.) behoren tot de criminele organisatie en (b.) een aandeel hebben in dan wel gedragingen ondersteunen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het oogmerk van de organisatie. Er hoeft niet te worden deelgenomen aan de misdrijven waarop het oogmerk is gericht
+
+ad. A: behoren tot de organisatie
+
+[verdachte 10] was president, [verdachte 1] vice-president, [verdachte 6] en [verdachte 9] waren sergeant of arms, [verdachte 13] secretary/treasurer en [verdachte 2] road-captain. Daarnaast waren [verdachte 3] , [verdachte 4] , [verdachte 12] , [verdachte 14] en [verdachte 21] full members. Deze zogenaamde kaderleden en full members waren volwaardig lid van het Sittardse chapter van de Bandidos en behoorden daarmee tot die organisatie.
+
+[verdachte 15] was als hangaround in beginsel geen volwaardig lid. Wel was hij aanwezig bij een viertal vergaderingen en tijdens de zogenaamde klopjacht op de Hells Angels en bij de openlijke geweldpleging bij de [naam café 2] . Gelet daarop is de rechtbank van oordeel dat ook hij behoorde tot de organisatie van het Sittardse chapter van de Bandidos.
+
+Ad. B: Aandeel in / ondersteuning van gedragingen oogmerk
+
+Bij de klopjacht en de bedreiging in [naam café 2] op 24 januari 2015 waren onder anderen aanwezig [verdachte 10] , [verdachte 12] , [verdachte 13] , [verdachte 15] , [verdachte 3] en [verdachte 9] .
+
+Aan de openlijke geweldpleging op 7 mei 2015 namen deel [verdachte 10] , [verdachte 9] , [verdachte 14] , [verdachte 21] , [verdachte 15] , [verdachte 13] , [verdachte 3] , [verdachte 2] , [verdachte 6] , [verdachte 1] en [verdachte 4] .
+
+Bij de provocatie richting de Hells Angels bij café [naam café 3] in de nacht van 7 op 8 mei 2015 waren onder anderen aanwezig: [verdachte 10] , [verdachte 1] , [verdachte 2] , [verdachte 12] , [verdachte 21] , [verdachte 15] , [verdachte 6] , [verdachte 9] , [verdachte 4] , [verdachte 3] , [verdachte 13] en [verdachte 14] .
+
+De verdachte was betrokken bij al deze incidenten. Dat leidt de rechtbank tot de conclusie dat de verdachte een aandeel heeft gehad in gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van voornoemd oogmerk tot bedreiging of openlijke geweldpleging.
+
+Conclusie
+
+Het voorgaande betekent dat de rechtbank van oordeel is dat de verdachte heeft behoord tot een op bedreiging en openlijke geweldpleging (richting Hells Angels en daaraan gelieerde clubs) gericht samenwerkingsverband, bestaande uit de MC Bandidos chapter Sittard en dat hij daarnaast ook een aandeel heeft gehad in gedragingen die mede strekten tot of verband hielden met de verwezenlijking van het binnen die organisatie bestaande oogmerk. Daarom acht de rechtbank bewezen dat de verdachte, als oprichter, leider of bestuurder, heeft deelgenomen aan een organisatie als bedoeld in artikel 140 van het Wetboek van Strafrecht.
+
+3.4.2
+
+Openlijke geweldpleging (ZD 9 / feit 2 in de zaak 03/702616-15)
+
+De rechtbank acht op grond van de in bijlage II opgenomen bewijsmiddelen bewezen dat de verdachte openlijk en in vereniging geweld heeft gepleegd tegen [slachtoffer 8] , [slachtoffer 7] en [slachtoffer 9] . Daartoe overweegt de rechtbank als volgt.
+
+Inleiding
+
+Op 7 mei 2015 vond op en nabij het terras van [naam café 2] in Sittard een vechtpartij plaats. Die vechtpartij vond plaats tussen diverse leden van de Bandidos en drie personen die kennelijk betrokkenheid hadden bij (supportclubs van) de Hell’s Angels. De verdachte was als lid van de Bandidos ook aanwezig.
+
+Op grond van de bewijsmiddelen stelt de rechtbank vast dat [verdachte 2] , [verdachte 13] , [verdachte 15] , [verdachte 6] , [verdachte 3] en [verdachte 4] zelf actief geweld hebben uitgeoefend door te slaan en/of te trappen tegen een van de slachtoffers. Daarbij stelt de rechtbank bovendien vast dat [verdachte 2] een kopstoot aan een van de slachtoffers heeft gegeven en dat [verdachte 4] op het hoofd van een van de slachtoffers is gesprongen. Voorts stelt zij vast dat [verdachte 10] , [verdachte 9] , [verdachte 14] en [verdachte 21] ook aanwezig waren, maar zelf geen direct geweld tegen een van de drie slachtoffers hebben toegepast.
+
+De rechtbank ziet zich hierbij voor de vraag gesteld of het handelen van de verdachte in deze strafbaar is en zo ja, op welke wijze. Daartoe overweegt zij als volgt.
+
+Openlijk en in vereniging geweld plegen
+
+De rechtbank stelt voorop dat van het ‘in vereniging’ plegen van geweld sprake is, indien de betrokkene een voldoende significante of wezenlijke bijdrage levert aan het geweld, zij het dat deze bijdrage zelf niet van gewelddadige aard behoeft te zijn. De enkele omstandigheid dat iemand aanwezig is in een groep die openlijk geweld pleegt, is niet zonder meer voldoende om hem te kunnen aanmerken als iemand die ’in vereniging"’ geweld pleegt. Beoordeeld zal moeten worden of de door de verdachte geleverde – intellectuele en/of materiële – bijdrage aan het delict van voldoende gewicht is. Daarvoor is niet nodig dat de deelnemers gelijktijdig aan het geweld zijn begonnen. De enkele omstandigheid dat de dader de groep getalsmatig versterkte is daarvoor ‘niet zonder meer’ voldoende. Welbewust een bijna zekere confrontatie aangaan en meegaan in de aanvalsgolf met anderen is meer dan getalsmatig versterken van een groep. Van een significante en wezenlijke bijdrage kan overigens ook sprake zijn wanneer iemand, zonder aan de geweldpleging deel te nemen, die geweldpleging heeft ‘bevorderd en wellicht zelfs uitgelokt.’
+
+Op grond van de in bijlage II opgenomen bewijsmiddelen overweegt de rechtbank als volgt.
+
+De verdachte heeft de groep weliswaar getalsmatig versterkt, maar zelf geen direct geweld tegen een van de drie slachtoffers toegepast of anderszins een bijdrage van gewelddadige aard geleverd. Daardoor ziet de rechtbank zich voor de vraag gesteld of er meer is dan de enkele getalsmatige versterking om tot bewezenverklaring te komen.
+
+Hoewel onduidelijk is gebleven of men van tevoren ook afgesproken heeft om daadwerkelijk geweld uit te oefenen, blijkt uit de opgenomen gesprekken wel degelijk dát er de avond van tevoren afspraken zijn gemaakt en dat men rekening hield met een door henzelf bewerkstelligde escalatie die avond. [verdachte 6] zegt in de auto op weg naar de afgesproken plek in Sittard dat er ‘een verantwoordelijk gesteld moet worden’. ‘Die moeten we aanpakken.’ Waarop [verdachte 3] zegt dat als we hem - naar de rechtbank begrijpt een kopstuk van de Hells Angels – ‘nu niet thuis niet te pakken krijgen, moeten we eigenlijk naar die Sergeant of Arms toe’.
+
+Zo is [verdachte 3] niet te spreken over de – anders dan afgesproken – aanwezigheid van hangaround, kennelijk, [verdachte 22] nu [verdachte 3] niet weet wat [verdachte 22] doet als hij ‘vast komt te zitten’ en wordt [verdachte 4] gemaand zich afzijdig te houden, omdat hij anders waarschijnlijk direct gaat slaan. [verdachte 14] spreekt voorts over het in het vervolg afspreken van codes voor het al dan niet met kogelvrije vesten te verschijnen en het meenemen van -naar de rechtbank begrijpt- wapens.
+
+Uit de bewijsmiddelen blijkt voorts dat de verdachte de leider van de groep was, op intimiderende wijze het woord voerde en uitlatingen deed als zijnde Sittard, of zelfs heel Holland, het territorium  van de Bandidos MC. Uit de opgenomen gesprekken blijkt ook dat anderen hem volgden. Gelet hierop is de rechtbank van oordeel dat hij de geweldpleging heeft bevorderd en wellicht zelfs uitgelokt.
+
+Op grond hiervan staat voor de rechtbank vast dat de verdachte niet alleen de groep getalsmatig heeft versterkt, maar dat hij door te handelen als hiervoor vermeld, opzet heeft gehad op de ten laste gelegde geweldshandelingen en daaraan een voldoende significante of wezenlijke bijdrage heeft geleverd. Daarmee is het verweer van de verdediging (inhoudende dat geen sprake was van een voldoende significante of wezenlijke bijdrage) verworpen en komt de rechtbank tot een bewezenverklaring van de ten laste gelegde openlijke geweldpleging.
+
+De rechtbank merkt hierbij wel op dat, nu de verdachte zelf geen geweldshandeling heeft uitgevoerd tegen de slachtoffers, de strafverzwarende omstandigheid van het ontstane lichamelijk letsel niet op de verdachte van toepassing is. Dat staat niet in de weg aan bewezenverklaring, maar komt tot uitdrukking in de kwalificatie en strafwaardigheid.
+
+3.4.3
+
+Hasjiesj (ZD 10A / feit 1 in de zaak 03/702646-17)
+
+De rechtbank acht op grond van de in bijlage II opgenomen bewijsmiddelen bewezen dat de verdachte op 27 mei 2015 ongeveer 84 gram hasjiesj in zijn woning aanwezig heeft gehad. Daartoe overweegt de rechtbank als volgt.
+
+De verdediging heeft bepleit dat de verdachte moet worden vrijgesproken, omdat niet vastgesteld kan worden dat hij de heerschappij over het blok hasjiesj had nu hij destijds niet de enige bewoner van het pand was.
+
+De rechtbank stelt voorop dat voor de vraag of een verdachte opzettelijk verdovende middelen aanwezig heeft gehad als bedoeld in artikel 3 onder C Opiumwet, niet doorslaggevend is aan wie die verdovende middelen (in eigendom) toebehoren. De term “aanwezig hebben” in de zin van de Opiumwet vergt niet dat sprake is van enige beschikkings- of beheersbevoegdheid ten aanzien van de verdovende middelen. Voldoende daarvoor is dat de onder de Opiumwet vallende middelen zich in de machtssfeer van de verdachte bevinden. Om te kunnen aannemen dat verdovende middelen zich in de machtssfeer van de verdachte hebben bevonden, dient uit feiten en omstandigheden – al dan niet in hun onderlinge samenhang beschouwd – te kunnen worden afgeleid dat de verdachte een zodanige macht kon uitoefenen over de verdovende middelen dat de verdachte geacht kan worden die verdovende middelen aanwezig te hebben gehad. Voor een bewezenverklaring van het opzettelijk aanwezig hebben van verdovende middelen is - vanwege het vereiste van (voorwaardelijk) opzet - voorts vereist dat de verdachte wetenschap had van de aanwezigheid van de verdovende middelen, althans van de aanmerkelijke kans daarop.
+
+De hasjiesj zijn aangetroffen in het keukenblok in de woning van de verdachte. Daarmee bevonden deze zich in de machtssfeer van de verdachte. Nu die plek over het algemeen vrij toegankelijk is en zich bevindt in een regelmatig gebruikte ruimte van de woning, acht de rechtbank ook enige wetenschap, minst genomen in voorwaardelijke zin, van die aanwezigheid bewezen. Aldus is de rechtbank van oordeel dat de verdachte die hasjiesj opzettelijk aanwezig heeft gehad.
+
+3.4.4
+
+Witwassen motorfiets (ZD 15 / feit 2 in de zaak 03/702646-17)
+
+Net als het Openbaar Ministerie en de verdediging is de rechtbank van oordeel dat verdachte dient te worden vrijgesproken van het onder parketnummer 03/702646-17 onder 2 ten laste gelegde. De rechtbank overweegt daartoe als volgt.
+
+Op basis van het dossier kan niet worden vastgesteld dat de bij verdachte aangetroffen motorfiets van enig misdrijf afkomstig is. Evenmin is sprake van feiten en omstandigheden waaruit zou kunnen worden afgeleid dat het niet anders kan zijn dat dan dat de motor of onderdelen daarvan uit enig misdrijf afkomstig zijn. Weliswaar wordt in het identiteits-onderzoek gesteld dat op het motorblok en de versnellingsbak ter plaatse van de aangebrachte nummers sporen van bewerking zichtbaar waren, maar deze zijn naar het oordeel van de rechtbank onvoldoende concreet omschreven om vast te kunnen stellen dat sprake is van manipulatie. Overigens wordt ook niet duidelijk of deze bewerking voor verdachte als hobbymonteur kenbaar had kunnen zijn.
+
+3.5
+
+De bewezenverklaring
+
+De rechtbank acht ten laste van de verdachte bewezen dat:
+
+in de zaak met parketnummer 03/702616-15:
+
+feit 1:
+
+hij in de periode van 1 januari 2014 tot en met 27 mei 2015 in Nederland, heeft deelgenomen aan een organisatie, bestaande uit een samenwerkingsverband van natuurlijke personen, te weten de leden van MC Bandidos (chapter Sittard), welke organisatie tot oogmerk had het plegen van misdrijven te weten:
+
+- bedreiging (art. 285 Sr) en
+
+- openlijk geweld (art. 141 Sr)
+
+terwijl hij, verdachte, oprichter, leider of bestuurder is van voornoemde criminele organisatie;
+
+feit 2:
+
+hij op 7 mei 2015 te Sittard, openlijk, te weten op of aan de openbare weg, de [adres 4] , in vereniging geweld heeft gepleegd tegen [slachtoffer 8] en [slachtoffer 7] en [slachtoffer 9] , welk geweld bestond uit (het met een boksbeugel) slaan en trappen/schoppen van die [slachtoffer 8] en/of [slachtoffer 7] en/of [slachtoffer 9] , terwijl dit slaan en trappen/schoppen voor die [slachtoffer 8] en/of [slachtoffer 7] en/of [slachtoffer 9] , enig lichamelijk letsel ten gevolge heeft gehad;
+
+in de zaak met parketnummer 03/702646-17:
+
+feit 1:
+
+hij op 27 mei 2015 te Nieuwstadt, opzettelijk aanwezig heeft gehad ongeveer 84 gram hasjiesj, zijnde hasjiesj een middel vermeld op de bij de Opiumwet behorende lijst II;
+
+De rechtbank acht niet bewezen hetgeen meer of anders is ten laste gelegd. De verdachte zal daarvan worden vrijgesproken.
+
+4
+De strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde levert de volgende strafbare feiten op:
+
+in de zaak met parketnummer 03/702616-15:
+
+feit 1: deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, terwijl de verdachte oprichter, leider of bestuurder is;
+
+feit 2: het openlijk in vereniging geweld plegen tegen personen;
+
+in de zaak met parketnummer 03/702646-17:
+
+feit 1: opzettelijk handelen in strijd met het in artikel 3 onder C van de Opiumwet gegeven verbod.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten.
+
+5
+De strafbaarheid van de verdachte
+
+De verdachte is strafbaar, omdat geen feiten of omstandigheden aannemelijk zijn geworden die zijn strafbaarheid uitsluiten.
+
+6
+De straf
+
+6.1
+
+De vordering van het Openbaar Ministerie
+
+Het Openbaar Ministerie heeft gerekwireerd tot oplegging van een onvoorwaardelijke gevangenisstraf van 20 maanden met aftrek van voorarrest.
+
+6.2
+
+Het standpunt van de verdediging
+
+De verdediging heeft verzocht om oplegging van een deels voorwaardelijke gevangenisstraf.
+
+6.3
+
+Het oordeel van de rechtbank
+
+Bij de bepaling van de op te leggen straf heeft de rechtbank gelet op de aard en ernst van hetgeen bewezen is verklaard, op de omstandigheden waaronder het bewezenverklaarde is begaan en op de persoon van de verdachte, zoals een en ander uit het onderzoek ter terechtzitting naar voren is gekomen.
+
+In het bijzonder heeft de rechtbank het volgende in aanmerking genomen.
+
+De verdachte heeft zich schuldig gemaakt aan:
+
+het als oprichter/leider/bestuurder deelnemen aan een criminele organisatie gericht op bedreiging en openlijke geweldpleging;
+
+openlijke geweldpleging;
+
+het aanwezig hebben van 84 gram hasjiesj.
+
+Criminele organisatie
+
+De verdachte heeft zich schuldig gemaakt aan deelneming aan een criminele organisatie. Deze criminele organisatie bestond uit diverse van de leden van het Sittardse chapter van de motorclub Bandidos, te weten: president [verdachte 10] , vice-president [verdachte 1] , sergeants at arms [verdachte 6] en [verdachte 9] , secretary/treasurer [verdachte 13] , road captain [verdachte 2] , full members [verdachte 12] , [verdachte 4] , [verdachte 14] , [verdachte 3] en [verdachte 21] en hangaround [verdachte 15] . Deze criminele organisatie had als oogmerk het plegen van bedreigingen en openlijke geweldpleging en dat in het bijzonder tegen de motorclub Hells Angels.
+
+Het Sittardse chapter van motorclub Bandidos zorgde letterlijk en figuurlijk voor een explosieve sfeer in Sittard en omgeving. Zo vond vlak na de oprichting in maart 2014 een granaataanslag plaats op de woning van president [verdachte 10] , korte tijd later gevolgd door nog twee granaataanslagen, één op diezelfde woning en één op de woning van [verdachte 14] . Al eind maart 2014 werden enkele leden aangehouden en later ook veroordeeld wegens verboden wapenbezit. Gaandeweg werd in de zomer van 2014 de rivaliteit tussen de motorclubs Bandidos en Hells Angels openlijk zichtbaar door een confrontatie tussen die twee clubs in Alkmaar. Uit het dossier blijkt ook van een daadwerkelijke vete tussen beide clubs in Limburg, zowel uit afgeluisterde gesprekken als uit diverse incidenten. Dit alles lijkt voort te komen uit een diepgewortelde, langdurende en zich over meer landen uitstrekkende strijd om hegemonie.
+
+Die vete en de bedoelingen van het Sittardse chapter van de Bandidos kwamen uiteindelijk in januari en mei 2015 tot uiting. Op 24 januari 2015 vond een zogenaamde klopjacht plaats op leden van de Hells Angels. Meerdere leden van de Sittardse Bandidos bezochten die avond diverse plekken waar kennelijk regelmatig leden van de Hells Angels of hun sympathisanten kwamen. De bedoeling die avond was duidelijk: vechten met de Hells Angels. Toevalligerwijs werd er die avond nergens een Hells Angel aangetroffen, omdat er een clubfeest gehouden werd op een locatie die niet door de Bandidos werd bezocht. Op 7 mei 2015 was het zogezegd wel raak met de openlijke geweldpleging bij [naam café 2] in Sittard en de provocatie van de Hells Angels daarna in Kerkrade.
+
+Hierdoor kreeg het Sittardse chapter meer en meer een bedreigende en gewelddadige reputatie. Het wilde de enige motorclub in de omgeving, of zelfs van heel Nederland, worden. Alles was erop gericht de baas te zijn. Dit werd onderling besproken en ook uitgedragen door intimidaties en geweld.
+
+Los van het voorgaande, bleken er nog tal van omstandigheden die duidden op de criminele aard van het samenwerkingsverband. Zo probeerde men op allerlei manieren uit het zicht van politie en justitie te blijven. Leden werden gemaand voorzichtig om te gaan met communicatiemiddelen, men had zogenaamde PGP-telefoons, er werd een heuse coöperatie opgericht die als dekmantel had te gelden voor een clubhuis, waarbij ook wachtgelopen werd en men bleek in staat om een – doorgaans vertrouwelijk – strafdossier in bezit te krijgen. Deze omstandigheden staan weliswaar niet in directe relatie tot de bedreigingen en het geweld tegen de Hells Angels, maar tonen wel het karakter van de club.
+
+Kortom, de aanwezigheid van het Sittardse chapter van de Bandidos zorgde voor een aantasting van de openbare orde. Het liet zich leiden door territoriumdrift en plaatste zichzelf buiten de democratische rechtsorde.
+
+De rechtbank acht voor de deelneming aan deze criminele organisatie in beginsel een gevangenisstraf van 9 maanden voor de leden en 12 maanden voor de leiders van die organisatie passend.
+
+Openlijke geweldpleging
+
+De verdachte heeft tijdens de openlijke geweldpleging op 7 mei 2015 bij [naam café 2] zelf niet geslagen of geschopt, maar was wel diegene die als leider van de groep het geweld bevorderde of wellicht zelfs uitlokte. Zijn handelen zorgde voor een ware escalatie van geweld, waarin zelfs nog een poging tot doodslag plaatsvond. Al dit geweld vond plaats in het kader van de kennelijke territoriumdrift van het Sittardse chapter van de Bandidos en hun vijandigheid tegen de Hells Angels. Bovendien was sprake van nietsvermoedende slachtoffers die zonder enige aanleiding daartoe te grazen werden genomen door een veel grotere groep in colors geklede leden van de Sittardse Bandidos, waartegen ze totaal kansloos waren. Geen eerlijk gevecht, maar volstrekt zinloos geweld dus. En dat is strafverzwarend.
+
+De rechtbank acht voor het aandeel van de verdachte in deze openlijke geweldpleging in beginsel een gevangenisstraf van 9 maanden.
+
+Conclusie
+
+Het voorgaande maakt dat de rechtbank een gevangenisstraf van 21 maanden als uitgangspunt hanteert. De straf zal lager zijn dan door het Openbaar Ministerie geëist, omdat de rechtbank de verdachte voor een deel vrijspreekt, waarvoor het Openbaar Ministerie tot bewezenverklaring had gerekwireerd. Het bezit van de hasjiesj is in deze strafmaat meegenomen.
+
+Van bijzondere persoonlijke omstandigheden die in strafmatigende zin moeten meewegen in de op te leggen straf, is de rechtbank niet gebleken.
+
+Wel zal de rechtbank, soortgelijk aan het standpunt van het Openbaar Ministerie, de op te leggen straf met ongeveer 1/3 verminderen gelet op de schending van de redelijke termijn. De verdachte werd aangehouden op 27 mei 2015, terwijl de rechtbank vandaag ruim zes jaren later vonnis wijst en dit tijdsverloop niet aan de verdachte te wijten is.
+
+De rechtbank zal [verdachte 10] veroordelen tot een gevangenisstraf van 14 maanden.
+
+7
+Het beslag
+
+De beslaglijst d.d. 22 mei 2021 vermeldt drie geldbedragen van respectievelijk 2.020 euro, 1.200 euro en 345 euro alsmede een Apple iPhone met lader en een stuk papier.
+
+Nu met betrekking tot deze voorwerpen niet (meer) wordt voldaan aan de voorwaarden van artikel 94 van het Wetboek van Strafvordering, zal dit beslag worden opgeheven en dienen deze voorwerpen in beginsel te worden teruggegeven aan degene onder wie ze zijn inbeslaggenomen, zijnde verdachte.
+
+De rechtbank merkt daarbij op dat op het geld kennelijk tevens conservatoir beslag ex art. 94a Sv rust. Dit beslag ligt niet ter beoordeling aan de rechtbank voor. Dat betekent dat deze voorwerpen mogelijk alsnog niet onmiddellijk terug gegeven zullen worden.
+
+De rechtbank merkt tot slot nog het volgende op. In de zaak van medeverdachte [verdachte 1] stond de motorfiets ‘Legend’ voorzien van kenteken [nummer kenteken 1] op de beslaglijst. Tijdens het onderzoek ter terechtzitting is gebleken dat deze motorfiets is aangetroffen in het pand aan de [adres 2] te Oirsbeek en dat deze niet aan de medeverdachte [verdachte 1] toebehoort, maar aan de verdachte [verdachte 10] . Daarom heeft de rechtbank in de zaak tegen de medeverdachte [verdachte 1] de teruggave gelast van deze motorfiets aan de verdachte [verdachte 10] .
+
+8
+De wettelijke voorschriften
+
+De beslissing berust op de artikelen:
+
+57, 140, 141 van het Wetboek van Strafrecht;
+
+3, 11 van de Opiumwet;
+
+zoals deze artikelen luidden ten tijde van het bewezenverklaarde.
+
+9
+De beslissing
+
+De rechtbank:
+
+Vrijspraak
+
+- spreekt de verdachte vrij van feit 2 in de zaak 03/702646-17;
+
+Bewezenverklaring
+
+verklaart de feiten 1 en 2 in de zaak 03/702616-17 en feit 1 in de zaak 03/702646-17 bewezen zoals hierboven onder 3.5 is omschreven;
+
+spreekt de verdachte vrij van wat meer of anders is ten laste gelegd;
+
+Strafbaarheid
+
+verklaart dat het bewezenverklaarde strafbare feiten oplevert zoals hierboven onder 4 is omschreven;
+
+verklaart de verdachte strafbaar;
+
+Straf
+
+veroordeelt de verdachte voor de feiten 1 en 2 in de zaak 03/702616-17 en feit 1 in de zaak 03/702646-17 tot een gevangenisstraf van 14 maanden;
+
+beveelt dat de tijd die door de veroordeelde vóór de tenuitvoerlegging van deze uitspraak in voorarrest is doorgebracht, bij de uitvoering van deze gevangenisstraf in mindering zal worden gebracht;
+
+verstaat dat tenuitvoerlegging van de opgelegde gevangenisstraf volledig zal plaatsvinden binnen de penitentiaire inrichting, tot het moment dat de verdachte in aanmerking komt voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet of tot het moment dat de regeling van voorwaardelijke invrijheidsstelling aan de orde is, als bedoeld in artikel 6:2:10 Wetboek van Strafvordering;
+
+Beslag
+
+- gelast de teruggave van alle op de bijgevoegde beslaglijst d.d. 22 mei 2021 vermelde voorwerpen, te weten de nummers 1, 2, 3, 10 en 11, aan de verdachte.
+
+Dit vonnis is gewezen door mr. L.P. Bosma, voorzitter, mr. M.J.A.G. van Baal en mr. L. Feuth, rechters, in tegenwoordigheid van mr. H.M.E. de Beukelaer en mr. O.A.G. Corten, griffiers, en uitgesproken ter openbare zitting van 9 juli 2021.
+
+BIJLAGE I: De tenlastelegging
+
+[scan beslaglijst]
+
+In de zaak met parketnummer 03/702616-15:
+
+Aan de verdachte is - na nadere omschrijving van de tenlastelegging - ten laste gelegd dat:
+
+1.
+
+hij in of omstreeks de periode van 1 januari 2014 tot en met 27 mei 2015 in
+
+de gemeente Echt-Susteren en/of de gemeente Sittard-Geleen en/of de gemeente
+
+Roermond en/of de gemeente Valkenswaard en/of de gemeente Heerlen en/of de
+
+gemeente Kerkrade en/of de gemeente Schinnen, in elk geval in Nederland en/of
+
+te Borgloon (B), in elk geval in België en/of
+
+te Selfkant en/of te Alsdorf, in elk geval in Duitsland,
+
+heeft deelgenomen aan een organisatie, bestaande uit een samenwerkingsverband
+
+van natuurlijke personen, te weten de leden van MC Bandidos (chapter Sittard)
+
+en/of een samenwerkingsverband bestaande uit (onder meer) de volgende
+
+personen: [verdachte 6] en/of [verdachte 1] en/of [verdachte 7] en/of  [verdachte 5]
+
+en/of [verdachte 2] en/of [verdachte 3] en/of [verdachte 4]
+
+en/of [verdachte 9] en/of [verdachte 8] en/of [verdachte 13] en/of [verdachte 14]
+
+en/of [verdachte 11] en/of [verdachte 12] en/of [verdachte 15]
+
+en/of [verdachte 17] en/of [verdachte 20] en/of [verdachte 21] en/of [verdachte 22]
+
+en/of [verdachte 16] , welke organisatie tot oogmerk had het plegen van
+
+misdrijven te weten:
+
+- afpersing (art. 317 Sr) en/of
+
+- diefstal met geweld (art. 312 Sr) en/of
+
+- bedreiging (art. 285 Sr) en/of
+
+- openlijk geweld (art. 141 Sr) en/of
+
+- verboden wapenbezit (art. 26 WWM),
+
+terwijl hij, verdachte, oprichter en/of leider en/of bestuurder is van
+
+voornoemde criminele organisatie;
+
+(zaak 1)
+
+2.
+
+hij op of omstreeks 7 mei 2015 te Sittard, in de gemeente Sittard-Geleen,
+
+openlijk, te weten op of aan de openbare weg, de [adres 4] , in elk geval
+
+op of aan een openbare weg, in vereniging geweld heeft gepleegd tegen (onder
+
+meer) [slachtoffer 8] en/of [slachtoffer 7] en/of [slachtoffer 9] , welk geweld
+
+bestond uit (het met een boksbeugel) slaan en/of trappen/schoppen van die
+
+[slachtoffer 8] en/of [slachtoffer 7] en/of [slachtoffer 9] , terwijl dit slaan
+
+en/of trappen/schoppen voor die [slachtoffer 8] en/of [slachtoffer 7] en/of
+
+[slachtoffer 9] , enig lichamelijke letsel tengevolge heeft gehad;
+
+(zaak 9).
+
+In de zaak met parketnummer 03/702646-17:
+
+Aan de verdachte is ten laste gelegd dat:
+
+1.
+
+hij op of omstreeks 27 mei 2015 te Nieuwstadt, in de gemeente Echt-Susteren,
+
+opzettelijk aanwezig heeft gehad ongeveer 84 gram, in elk geval een
+
+hoeveelheid van meer dan 30 gram hasjiesj, zijnde hasjiesj een middel vermeld
+
+op de bij de Opiumwet behorende lijst II;
+
+(zaak 10A/10B)
+
+2.
+
+hij in of omstreeks de periode van 24 juli 2013 tot en met 27 mei 2015, te
+
+Sittard, in de gemeente Sittard-Geleen, althans in Nederland, een voorwerp, te
+
+weten een motorfiets (merk Legend, type shopper, voorzien van het kenteken
+
+[nummer kenteken 1] ), heeft verworven en/of voorhanden heeft gehad en/of heeft
+
+overgedragen en/of omgezet, althans van een voorwerp, te weten voornoemde
+
+motorfiets, gebruik heeft gemaakt, terwijl hij wist of redelijker moest
+
+vermoeden, dat bovenomschreven voorwerp - onmiddellijk of middellijk -
+
+afkomstig was uit enig misdrijf;
+
+(Zaak 15).
+
+BIJLAGE II: De bewijsmiddelen
+
+Zaakdossier 1: Deelneming aan de criminele organisatie MC Bandidos (chapter Sittard)
+
+De politie heeft onderzoek gedaan naar de oprichting van het Sittardse chapter en relateerde daarover het volgende:
+
+Uit een onderzoek op de internetsite [naam website] bleek dat op zaterdag 15 maart 2014 de uitreiking probationary colors aan het eerste chapter van de BMC in Nederland, het chapter Sittard, plaatsvond. [verdachte 10] is de president van dit chapter.
+
+Tijdens de doorzoeking in de woning van [verdachte 13] op de actiedag 27 mei 2015 werd een geheugenstick aangetroffen. Het proces-verbaal over het vervolgonderzoek aan die geheugenstick vermeldt dat daarop onder meer werden aangetroffen:
+
+ ledenlijsten Bandidos;
+
+ verslagen van vergaderingen van de BMC Sittard;
+
+ financiële registratie, contributie en dergelijke door de leden BMC Sittard;
+
+ financiële registratie betaling maandelijkse contributie aan het ’Mother Chapter Marseille’.
+
+Het proces-verbaal vermeldt verslagen van 1, 8, 14, 21 en 28 januari, 4, 11, 18 en 25 februari, 6, 11, 18 en 25 maart en 1 april. Voorts werd een ongedateerd verslag aangetroffen getiteld ‘Sec meeting 2015 Unna‘.
+
+Op de geheugenstick werden drie kennelijke ledenlijsten van de Bandidos MC Sittard aangetroffen. De meest recente ledenlijst vermeldt in totaal 22 namen, waaronder zakelijk weergegeven:
+
+Name
+
+Member
+
+Probationary
+
+Prospect
+
+Hangaround
+
+President
+
+[verdachte 10]
+
+23-08-14
+
+15-03-14
+
+Vice President
+
+[verdachte 1]
+
+23-08-14
+
+15-03-14
+
+Sgt. at Arms
+
+[verdachte 9]
+
+23-08-14
+
+15-03-14
+
+Sec/Treas
+
+[verdachte 7]
+
+23-08-14
+
+15-03-14
+
+Road Captain
+
+[verdachte 2] *
+
+21-06-14
+
+15-03-2014
+
+Member
+
+[verdachte 12]
+
+23-08-14
+
+15-03-14
+
+Member
+
+[verdachte 4]
+
+23-08-14
+
+15-03-14
+
+Member
+
+[verdachte 13] **
+
+21-06-14
+
+15-03-2014
+
+Member
+
+[verdachte 14]
+
+21-06-14
+
+15-03-2014
+
+Member
+
+[verdachte 3]
+
+15-03-14
+
+26-07-2014
+
+Sgt. at Arms
+
+[verdachte 6] **
+
+22-10-14
+
+26-04-2014
+
+04-04-14
+
+Prospect
+
+[verdachte 21] ***
+
+02-02-15
+
+30-04-2014
+
+Hangaround
+
+[verdachte 15] ****
+
+17-12-14
+
+*De rechtbank begrijpt: [verdachte 2] .
+
+** Omstreeks april 2015 volgde [verdachte 13] [verdachte 7] op in de functie van secretary/treasurer.
+
+*** De rechtbank begrijpt: [verdachte 6] .
+
+**** De rechtbank begrijpt: [verdachte 21] .
+
+***** De rechtbank begrijpt: [verdachte 15] .
+
+De eerder genoemde verslagen op de geheugenstick aangetroffen bij [verdachte 13] beschrijven – zakelijk weergegeven – onder meer de aan/-afwezigheid, contributie, kosten, afspraken en samenvattingen van de ‘meetings’ voor het overige, waaronder:
+
+ Het verslag ‘meeting 28 january’ dat onder meer vermeldt (pg. 331-333): “Afgelopen zaterdag is het een en ander gebeurt met hangaround [hangaround 1] van 81. (…) Zijn in cafes geweest maar staan wel op camera”. Verder vermeldt dit verslag dat iemand heeft verteld dat hij is verzocht om zijn zwijgrecht om te zetten naar een verklaring, maar dat geweigerd omdat zulks de club zou beschadigen omtrent “crim organisatie.”
+
+ Het verslag ‘meeting 18 february’ dat onder meer vermeldt (pg. 321-323): “Doorgegeven aan rood wit einde maart moet duidelijkheid zijn, als weer iets gebeurt gas er op.
+
+ Het verslag ‘meeting 25 maart’ dat onder meer vermeldt (pg. 329-330): “Afgelopen nacht is de cafe van Wilbert afgebrand.”
+
+De verslagen vermelden de volgende aanwezigen:
+
+ 8 8 januari: [15 namen] (pg. 310).
+
+ 8 28 januari: [19 namen] (pg. 331).
+
+ 8 4 februari: [24 namen] (pg. 304).
+
+ 8 11 februari: [22 namen] (pg. 314).
+
+ 8 18 februari: [18 namen 1] (pg. 321).
+
+ 8 25 februari: [15 namen 1] (pg. 326).
+
+ 8 11 maart: [18 namen 2] (pg. 317)
+
+ 8 18 maart: [17 namen] (pg. 323).
+
+ 8 25 maart: [21 namen] (pg. 329).
+
+ 8 1 april: [18namen] (pg. 306).
+
+Tijdens de doorzoeking in de woning van [verdachte 7] werd een geheugenstick aangetroffen. Het proces-verbaal over het vervolgonderzoek aan die geheugenstick vermeldt dat daarop werd aangetroffen:
+
+ het document Holland regels Bandidos
+
+ communicatie (in de Engelse taal) in nieuwsbrieven waarin melding wordt gemaakt van een conflict met ’HA’ en spanningen met ’81’.
+
+Het document ’Bandidos MC Sittard Holland – Holland regels’ zoals aangetroffen op voornoemde geheugenstick vermeldt onder meer:
+
+ Holland Meeting wordt gehouden op de eerste woensdag van de maand bij chapter Sittard, niet aanwezig zonder reden gaat jas uit tot volgende Holland Meeting;
+
+ vierentwintig uur bereikbaar en binnen half uur tel of sms berichten beantwoorden;
+
+ wordt iemand opgepakt door politie voor wat voor reden dan ook zwijgrecht tot advocaat daar is geweest en uitleg geeft over de situatie.
+
+Op 28 maart 2014 werd in de auto van [verdachte 10] een handboek aangetroffen. Deze ’Bible of the Bandidos motorcycleclub Europe’ beschrijft onder meer (in de Engelse taal) de toelatings- en lidmaatschapsregels (hangaround, prospect, probationary, full membership), contributie, onkostenvergoedingen bij voorlopige hechtenis, vergadering, clubregels, officieren, financiële verplichtingen, patches, nieuwsbrief, bmcmail en geschiedenis.
+
+De politie heeft voorts onderzoek gedaan naar diverse incidenten die plaatsvonden sinds de oprichting van het Sittardse chapter van de Bandidos MC. Daarover relateert de politie het volgende:
+
+Op 16 maart 2014 vond een granaataanslag plaats op de woning van [verdachte 10] .
+
+Op 22 maart vond wederom een granaataanslag plaats op de woning van [verdachte 10] .
+
+Op 26 maart 2014 vond de sluiting plaats van het clubhuis van de Bandidos in perceel [adres 3] te Geleen op grond van mogelijke ernstige verstoring van de openbare orde vanwege de bewoning door [verdachte 10] . Hierbij werden vier leden van de Bandidos aangehouden waaronder [verdachte 10] . Er werden meerdere vuurwapens en munitie gevonden op het perceel en in personenauto's.
+
+Op 7 mei 2014 vond een granaataanslag plaats op de woning van [verdachte 14] .
+
+Op 15 juni 2014 werd een soort van brandbom tegen de gevel van [naam café 4] te Echt gegooid. Dit café betreft een locatie waar de Bandidos, chapter Sittard elkaar regelmatig treffen.
+
+Op 29 augustus 2014 vond een verbaal treffen tussen leden van de Bandidos en Hells Angels in Alkmaar plaats. Een fysieke confrontatie tussen beide clubs is door inzet politie voorkomen. Er werden enkele aanhoudingen verricht. Het is verder niet bekend of bij dit treffen leden van de Bandidos, chapter Sittard aanwezig waren.
+
+Op 24 januari 2015, werd door de Hells Angels een bijeenkomst gehouden in café [naam café 3] aan de Markt in Kerkrade. Hierbij waren ook leden van de Red Devils aanwezig.
+
+Op 24 januari 2015 werd door meerdere leden van de OMG Bandidos Sittard een bezoek gebracht aan de ontmoetingsplaats van de Red Devils aan de [adres 4] te Sittard ( [naam café 2] ).
+
+Op 24 januari 2015, na het bezoek aan de [naam café 2] , zijn de leden van de Bandidos door het zuiden van Limburg getrokken waarbij ze meerdere locaties, waarvan bekend is dat er regelmatig leden van de Hells Angels aanwezig zijn, bezochten. Tijdens deze bezoeken worden geen leden van de Hells Angels of Red Devils aangetroffen door de Bandidos.
+
+Op 25 januari 2015 werd gezien dat een grote groep leden van de Hells Angels vanuit het centrum van Kerkrade naar [naam café 1] te Kerkrade liepen. Bekend is dat de uitbater van [naam café 1] sympathiseert met de Bandidos en dat er regelmatig leden van de Bandidos daar aanwezig zijn geweest. Nadat de Hells Angels daar weer vertrokken waren, bleken de vier banden van de auto van de uitbater van [naam café 1] te zijn lek gestoken. Ook was er met een scherp voorwerp twee maal de cijfercombinatie 81 in de lak van de auto gekrast.
+
+Op 16 maart 2015 hield een grote groep leden van de Hells Angels zich provocerend op ter hoogte van de woning van een lid van de Bandidos aan de [adres 5] te Susteren. Na enige tijd vertrok de groep zonder dat er verdere incidenten hadden plaatsgevonden.
+
+Op 25 maart 2015 wordt omstreeks 03.00 uur een brandend projectiel geworpen door de ruit van [naam café 1] aan de [adres 6] in Kerkrade. Hierdoor ontstaat er een grote brand. In de woning boven het cafégedeelte sliep op dat moment het gezin van de uitbater dat het brandende pand tijdig kon verlaten. Het pand brandde geheel uit. Naar aanleiding van dit incident werd een verdachte op heterdaad aangehouden. Deze verdachte is een bekend lid van de Supportcrew 81, de officiële supportclub van de Hells Angels uit Kerkrade.
+
+Op 7 mei 2015, omstreeks 20.20 uur, werden drie leden van de Red Devils nabij hun ontmoetingsplaats aan de [adres 4] te Sittard zwaar mishandeld door ruim twintig leden van de Bandidos. Eén van de Bandidos wordt bij hun vertrek herkend door de politie als de president [verdachte 10] .
+
+Op 7 mei 2015, omstreeks 23:55 uur, probeerde een grote groep leden van de OMG Bandidos op de Markt in Kerkrade de horecagelegenheden te betreden. Dit werd overal geweigerd.
+
+Op 9 mei 2015 kwam interne politie-informatie binnen dat zich in de late avond rond perceel [adres 7] te Kerkrade (café [naam café 3] ) een grote groep personen verzameld had in de colors van de Hells Angels.
+
+Op 9 mei 2015 kwam interne politie-informatie binnen dat een grote groep Bandidos zich ophield in en rond het pand aan de [adres 2] te Oirsbeek. Dit pand betreft de vestigingsplaats van het bedrijf en de woonplaats van de vice-president van de Bandidos.
+
+Diverse OVC-verslagen uit de auto van [verdachte 3] vermelden dat [verdachte 3] onder meer het volgende zegt:
+
+2 maart 2015:
+
+Als je eenmaal in een motorclub zit dan, zoals ons, dan moet je voor elkaar door het vuur gaan. (…) Dat begon hier in Nederland, de Bandidos. We waren tien jongens allemaal buitenbeentjes (…) en dan kom je bij elkaar, die allemaal voor mekaar door het vuur gaan. (…) Ik heb schijt aan alles, ik ben 1%-er, ik sta buiten de wet. (…) Als iemand zegt ik kan niet meer zo vaak komen door mijn werk… rot op man werk. Wij zijn 1%, wij staan buiten de wet, wij werken niet. (…) Je moet 24 uur per dag voor je club klaar staan. (…) Wij zijn criminelen, uitschot zijn wij.
+
+20 april 2015:
+
+(…) de oorlog gaat beginnen met rood/wit, die zijn ons vandaag de hele dag aan het zoeken geweest.
+
+14 mei 2015:
+
+Als wij met chapter Sittard ergens knokken, als er in het clubhuis wapens worden gevonden, dat ze dan gewoon zeggen de chapter Sittard is verboden. Maar dan moeten ze wel hard kunnen maken dat het chapter een criminele organisatie is.
+
+Diverse OVC-verslagen uit de auto van [verdachte 1] vermelden onder meer het volgende:
+
+17 november 2014:
+
+[verdachte 1] heeft geregeld dat ze nu iedere vrijdagavond en eventueel maandagavond kunnen trainen voor het boxen.
+
+[jongste zoon verdachte 1] wil ook blijven voetballen.
+
+Dat sowieso zegt [verdachte 1] , maar als hij dadelijk Chicano wil worden is het wel handig als hij een beetje kan vechten. Als [jongste zoon verdachte 1] komt dan zullen die anderen ook wel denken, die jongen van 15 doet het ons voor, dan komen ook 2-3 Chicano’s trainen.
+
+[verdachte 1] zegt dat ze daar wel achter komen als ze de eerste keer op straat tegen een Rood-Witte aanlopen… dan wordt geknokt… dan komen ze met dikke ogen thuis.
+
+29 oktober 2014 (twee Chicanosleden die het volgende over de Bandidos zeggen):
+
+Ze hebben al backup met de Satudarah en als ze die ook nog kunnen samentrekken, dan hebben we toch een paar clubs, waarmee we toch dadelijk proberen te overheersen. Dan kunnen ze rood-wit uitdrijven. Dat is wel de bedoeling.
+
+13 januari 2015:
+
+[verdachte 1] , [oudste zoon verdachte 1] , [verdachte 6] en [verdachte 11] in de auto.
+
+[verdachte 6] : Zaterdag komt er nog een maat mee… [bandidos-lid 1] mee.. een stevige jongen… een goeie MMA-vechter, de beste MMA-vechter die België had.
+
+[verdachte 1] : Goed zo, ok.
+
+Bij de doorzoeking in de woning van de verdachte [verdachte 12] werd een iPhone aangetroffen. Op die iPhone bleek een foto van 5 maart 2015 aanwezig, waarop [verdachte 12] was afgebeeld in de colors van de Bandidos en met een raketwerper op zijn schouder.
+
+Zaakdossier 9: Openlijke geweldpleging Sittard
+
+Gebeurtenissen 24 januari 2015
+
+Op 25 januari 2015 deed [getuige 11] aangifte van bedreiging. Zij verklaarde – zakelijk weergegeven – onder meer het volgende:
+
+Ik ben eigenaresse van [naam café 2] aan de [adres 4] te Sittard en als zodanig wil ik aangifte doen van bedreiging tegen [verdachte 10] en 6 andere leden van de OMG Bandidos.
+
+Op zaterdag 24 januari 2015 was ik werkzaam in mijn café. Omstreeks 20.55 uur zag ik dat [verdachte 10] binnenkwam, gevolgd door 6 andere motorclubleden van de Bandidos. Ik hoorde dat [verdachte 10] aan mij vroeg waar een bepaald persoon was. Ik wist niet waar hij het over had. Ik hoorde dat [verdachte 10] tegen mij zei: “Jij vindt wel een manier om dit door te geven.” (…) Ik zag dat hij opstond van de bar en naar de uitgang van mijn café liep. Ik hoorde dat [verdachte 10] , terwijl hij mij heel dreigend aankeek, tegen mij zei: “Ik kom wanneer ik dat wil, daar heeft niemand iets mee te maken en niemand houdt mij tegen. (…) Dit café ga ik sluiten, daar zorg ik persoonlijk voor. Hier komt geen rood/wit meer naar binnen.” De toon waarop [verdachte 10] tegen mij sprak en de manier waarop hij naar mij keek, waren heel bedreigend, intimiderend en bijzonder beangstigend. Hierna liepen ze naar buiten.
+
+[verdachte 10] bedoelde alle clubs die vallen onder rood/wit, zoals de Red Devils en Support. Deze laatste komen wel eens in mijn café. Ik ben heel erg bang voor [verdachte 10] en de overige motorclubleden. Ik ken hun bijzonder gewelddadige karakter.
+
+Bij analyse van de camerabeelden van 24 januari 2015 werden achtereenvolgens van de groep van 7 personen herkend: [verdachte 10] , [bandidos-lid 1] , [verdachte 12] , [verdachte 13] , [verdachte 15] , [verdachte 3] en [verdachte 9] , met uitzondering van [bandidos-lid 1] en [verdachte 15] allen in Bandidos full colors.
+
+In de vroege ochtend van 24 januari 2015 had zich in [naam café 5] te Brunssum een vechtpartij voorgedaan waarbij [bandidos-lid 2] , bij de politie ambtshalve bekend met banden met de Bandidos, zou zijn overmeesterd door klanten. In een gesprek met de politie verklaarde uitbater [getuige 12] dat:
+
+[bandidos-lid 2] de volgende dag met acht Bandidos, waaronder de president en allen gekleed in full colors, in de zaak was geweest;
+
+het gesprek met de president er in grote lijnen op neer kwam dat ze van een Bandidos lid moesten afbleven en dat ze wilden weten wie de politie had gebeld.
+
+Nadien bevestigde [getuige 12] dat een en ander impact heeft gehad, met de woorden: “Ja, dat is altijd schrikken geblazen als zoiets naar binnen komt. Niet alleen ik ben geschrokken, maar ook de klanten.”
+
+Een tapverslag van een telefoongesprek tussen [verdachte 10] en [verdachte 3] vermeldt onder meer het volgende:
+
+24 januari 2015, 18.15 uur
+
+[verdachte 3] wordt gebeld door [verdachte 10]
+
+vraagt [verdachte 3] om naar hem toe te komen met de colors aan.
+
+De peilbakengegevens van de Opel Vectra [nummer kenteken 2] van [verdachte 3] melden een stop in de straat [adres 8] te Nieuwstad, waar de woning van [verdachte 10] is gelegen, op 24 januari 2015 van 20.24 tot 20.27 uur.
+
+OVC-verslagen van gesprekken in de auto van [verdachte 3] van 24 januari 2015 vermelden onder meer het volgende:
+
+20.26
+
+uur
+
+[verdachte 3] , [verdachte 9] en [verdachte 12] in het voertuig.
+
+[verdachte 9] had gezegd dat ze vanavond gingen knokken.
+
+(...)
+
+[verdachte 9] zegt dat ze even moeten wachten, want die moeten even jongens inladen. [verdachte 6] en [bandidos-lid 1] . Die hebben daar de auto staan.
+
+20.28
+
+uur
+
+[verdachte 9] : Die had hem goed geraakt jong. Het hele t-shirt had hij onder het bloed
+
+[verdachte 3] : En waar is dat gebeurd?
+
+[verdachte 9] : Bij hem in het café in de straat… Kijk, we gaan eerst naar Sittard. Daar zitten ze meestal. Dan hebben we er tenminste een stuk of drie, vier. En als daar niemand is, dan gaan we daar naar dat café toe. Dan stappen we daar naar binnen.
+
+20.32
+
+uur
+
+[verdachte 9] zegt dat hij een kogelwerend vest aan heeft; een steekvest.
+
+20.33
+
+uur
+
+[verdachte 9] : Die ouwe van mij, jongen die is ook gek. Die gaat ook te keer hè jong.
+
+[verdachte 12] : Hij was vanmiddag al helemaal opgeladen.
+
+20.40
+
+uur
+
+Portier gaat open.
+
+[verdachte 9] : Kom Sjaak (fon)… dan gaat het feest beginnen.
+
+20.41
+
+uur
+
+[verdachte 9] : We zetten hem hier op de parkeerplaats.
+
+[verdachte 12] : [naam café 2] . Ken je dat?
+
+[verdachte 9] : Ja, daar gaan we nu naar toe.
+
+[verdachte 3] : Oh ik heb er zin in.
+
+[verdachte 9] : Ik ook.
+
+[verdachte 12] : Dan is het café Knock Out
+
+Ze stappen uit
+
+20.45
+
+uur
+
+[verdachte 3] , [verdachte 9] en [verdachte 12] in het voertuig.
+
+Personen stappen in het voertuig.
+
+[verdachte 9] : Is dat dat ‘wijf’ van die café?
+
+[verdachte 12] : Ja dat is de eigenaar en die gaat nu met de president van de Red Devils.
+
+20.48
+
+uur
+
+[verdachte 9] : Haal tassen leeg. Ik heb ook al niets erin. Alleen mijn rijbewijs heb ik erin, voor als ze ons snappen. Dan kunnen ze zien wie ik ben, dan hoef ik tenminste niets te zeggen… Als wij een kloppartij hebben.
+
+[verdachte 3] : Oh ik heb er zin in hey.
+
+[verdachte 9] : Morgen staat zoiets erin: Bandidos jagen op Hells Angels.
+
+[verdachte 3] : Ja, de oorlog is uitgebroken.
+
+(…)
+
+20.57
+
+uur
+
+[verdachte 3] , [verdachte 9] en [verdachte 12] in het voertuig.
+
+Op de achtergrond is de stem van [verdachte 10] te horen.
+
+[verdachte 10] rijdt voorop en [verdachte 3] rijdt erachter aan.
+
+[verdachte 3] : Waar is [bandidos-lid 2] nu dan?
+
+[verdachte 9] : [bandidos-lid 2] is thuis, die gaan we nu ophalen.
+
+Ze moeten naar Hoensbroek, maar [verdachte 3] weet de weg niet. [verdachte 9] moet hem een beetje sturen. [verdachte 9] zegt dat hij road captain is en ze lachen.
+
+20.58
+
+uur
+
+[verdachte 3] : Die [bijnaam verdachte 1] weet ervan.
+
+21.00
+
+uur
+
+[verdachte 9] : Als er ene zit, dan laten we [bandidos-lid 1] even… Dan heeft die (ntv) zijn color.
+
+De peilbakengegevens van de Opel Vectra [nummer kenteken 2] van [verdachte 3] twee stops:
+
+om 21.14 uur aan de [adres 9] Brunssum, welke straat grenst aan de [adres 10] te Heerlen, alwaar [bandidos-lid 2] woonachtig is;
+
+om 21.21 uur (tot 21.32 uur) aan de [adres 11] te Brunssum, alwaar [naam café 5] is gevestigd.
+
+De OVC-verslagen van gesprekken in de auto van [verdachte 3] van 24 januari 2015 vermelden verder onder meer het volgende:
+
+21.31
+
+uur
+
+[verdachte 3] , [verdachte 12] , [verdachte 21] en [verdachte 15] in het voertuig.
+
+[verdachte 3] zegt dat hij ze toch zo graag had willen zien vandaag.
+
+[verdachte 12] zegt dat die [naam 1] daar voor 100% zit.
+
+[verdachte 15] vraag of ze die ook door gaan halen.
+
+21.36
+
+uur
+
+[verdachte 21] vraagt waar ze naar toe gaan.
+
+[verdachte 12] zegt naar [naam 2] (klinkt als).
+
+21.37
+
+uur
+
+[verdachte 3] hoopt dat er hier een of twee zitten. Het liefst 20, zodat ze met acht man twintig man afslaan.
+
+[verdachte 15] zegt dat ze dat maar even lekker goed door krijgen.
+
+21.39
+
+uur
+
+Parkeren auto en stappen uit.
+
+21.54
+
+uur
+
+[verdachte 3] , [verdachte 12] , [verdachte 21] en [verdachte 15] in het voertuig.
+
+[verdachte 15] vloekt.
+
+[verdachte 3] zegt dat ze misschien ergens een feest hebben.
+
+[verdachte 15] zegt dat die ook wel weten dat stront aan de knikker is.
+
+21.57
+
+uur
+
+[verdachte 3] : Kan je zien, waar die Hells Angels altijd uithangen, in die cafeetjes… Wat een ballententen.
+
+[verdachte 15] : Daar kunnen ze de man spelen. Ohhh Hells Angel ohhh.
+
+22.05
+
+uur
+
+[verdachte 15] zegt dat het erop lijkt alsof iedereen gewoon thuis gebleven is.
+
+22.09
+
+uur
+
+[verdachte 15] : Dan donderdag maar he.
+
+[verdachte 3] : Die vangen we nog wel.
+
+22.13
+
+uur
+
+Gesprek over café waar ze net waren.
+
+Daar werd gevraagd: met colortjes aan?
+
+[verdachte 3] zegt dat ze eigenlijk hadden moeten zeggen dat ze kwamen incasseren.
+
+[verdachte 15] : (lacht) dagopbrengst, weekopbrengst.
+
+[verdachte 3] : 1500 per maand is zat. Zo pakken we een stuk of tien kroegjes.
+
+(…)
+
+[verdachte 15] : Bij die eerste café al. Heeft dat kutwijf van die Red Devils meteen een sms-bom eruit gegooid. Iedereen binnen blijven jongens (lacht).
+
+22.17
+
+uur
+
+[verdachte 3] zegt dat ze vanavond eigenlijk in elk café een of twee hadden moeten treffen.
+
+En die allemaal op de bek pompen vindt [verdachte 15] .
+
+Openlijke geweldpleging 7 mei 2015: [naam café 2] Sittard.
+
+Op 7 mei 2015 omstreeks 20.20 uur meldde [getuige 11] (de rechtbank begrijpt: de uitbaatster van [naam café 2] te Sittard) bij 112 dat er Bandidos bij haar café waren. Omstreeks 20.32 uur meldde ene [getuige 13] dat er op de [adres 4] twee of drie mensen in elkaar getrapt werden door een hele groep mensen.
+
+De politie ging ter plekke en relateerde – zakelijk weergegeven – onder meer het volgende:
+
+Wij zagen dat ongeveer 15 “full color” Bandidos bij het zien van ons dienstvoertuig in auto’s stapten. Voor het [naam café 2] zagen wij – naar later bleek – [slachtoffer 7] en [slachtoffer 8] op de grond zitten, met diverse verwondingen in het gelaat. In de sporthal trof ik ( [naam 3] ) tevens [slachtoffer 9] aan, eveneens met verwondingen in het gelaat. Alle drie de betrokkenen verklaarden dat zij waren mishandeld door enkele leden van de Bandidos en dat zij “ [bijnaam verdachte 10] ” te weten [verdachte 10] hadden herkend. Zij gaven aan dat [verdachte 10] tegen hen zei: “Wat moeten jullie hier? Dit is Bandidos gebied.”
+
+[slachtoffer 7] deed op 8 mei 2015 aangifte en verklaarde – zakelijk weergegeven – onder meer als volgt:
+
+Ik wil aangifte doen van openlijke geweldpleging dan wel mishandeling door meerdere personen. Ik was gisterenavond donderdag 7 mei 2015 rond 20:30 uur bij de [naam café 2] in Sittard. Dat is een café aan de [adres 4] in Sittard. Ik kwam aanrijden met de motor. Dat waren twee vrienden en ik. (…)
+
+Op de [adres 4] bij de parkeerplaats zagen wij vijftien tot twintig Bandidos staan in de straat. (…) Ik herkende twee personen van de Bandidos. Dit waren [verdachte 10] , de president van de Bandidos, en een andere man. (…) Ik reed met een hesje, zonder clubkenmerken. Mijn vrienden hadden beiden een prospect color van de Red Devils met daarop South Border. De Red Devils is een wereldwijde supportclub van de Hells Angels. (…) Op mijn hesje staat alleen een support badge van de South East club uit Weert. (…)
+
+[verdachte 10] heeft een tijd terug, ik denk een maand of twee, drie geleden gezegd dat Sittard zijn stad is. (…) [verdachte 10] zei dat zodra er Rood-Wit te zien zou zijn in Sittard, hij de [naam café 2] letterlijk zou sluiten. (…)
+
+We deden onze helmen af en zetten onze motoren af. Ik stond daar en ik zag en hoorde [verdachte 10] aankomen. Ik hoorde hem schreeuwen. (…) Ik hoorde dat hij opgefokt was. Hij maakt allerlei wilde bewegingen met zijn armen. Ik hoorde dat hij stamelde. Ik hoorde hem zeggen: "Ik heb jullie gewaarschuwd, dit is Holland, dit is Holland, dit is Holland." (…) Ik zag dat hij aan het begin van het terras van de [naam café 2] bleef staan. Op dat moment kwamen er een paar mannen om mij heen staan. (…)
+
+Ik zag dat een man voor me kwam staan, pal voor mij met zijn neus bijna tegen de mijne aan zo dichtbij. (…) De man die voor me stond, keek me alleen intimiderend aan en zei niets. Ik had het gevoel dat hij door me heen keek. Ik reageerde door te proberen op dezelfde manier terug te kijken. Ik probeerde hem ook te intimideren. (…) Op dat moment hoorde ik iets waarop die persoon voor mij reageerde. Ik weet niet meer wat het was dat ik hoorde. Op dat moment voelde ik de man voor me, me bij mijn jas pakken en ik voelde dat hij me naar de grond probeerde te trekken. Ik viel daardoor op mijn rug. Ik zag dat de man boven mij uitkwam.(…) Ik zag dat hij met zijn rechtervuist uithaalde en ik voelde dat hij mij op mijn hoofd sloeg. (….) Ik zag dat deze man echt uithaalde om zo te zeggen mijn hoofd plat te slaan. Ik zag en voelde dat hij mij meerdere malen op mijn hoofd sloeg met zijn rechtervuist. (…)
+
+Ik zag toen in mijn ooghoek een andere man staan die mij ook begon te slaan. Dat was precies op het moment dat die andere man stopte. Ik voelde dat hij ook met gebalde vuist op mijn hoofd sloeg. Zijn klappen kwamen voor het grootste deel achter op mijn hoofd terecht. (…) Deze laatste persoon kan ik omschrijven als een donker getinte (…) negroïde man. (…) Ik weet niet hoelang ik mishandeld ben. Ineens hielden de klappen op en was iedereen weg. Ik was verbaasd hoe snel iedereen weg was. (…)
+
+Ik heb door de mishandeling een blauw oog rechts, een kras op mijn linkerwang, een wond boven mijn linkerslaap en links achter op mijn hoofd een bult.
+
+[slachtoffer 8] deed op 7 mei 2015 aangifte en verklaarde – zakelijk weergegeven – onder meer als volgt:
+
+Donderdag 7 mei 2015 was ik omstreeks 20.15 uur bij [naam café 2] aan de [adres 4] te Sittard. Ik kwam op dat tijdstip aanrijden op mijn motor (…). Ik zag dat er een groep van ongeveer 20 Bandidos voor het café stond. Ik hoorde iemand van de Bandidos roepen dat Sittard van de Bandidos is. Verder riep hij iets over Nederlanders en Duitsers. Aan het gestamel te horen was dit [verdachte 10] . Ik zag dat een van de Bandidos uithaalde naar een vriend van me. Ik zag dat er vervolgens een op mij af kwam lopen en me ook een klap verkocht. Ik zag dat er meerdere personen bij mij stonden. Enkelen hielden mijn handen vast en de andere sloeg en trapte me.
+
+De geneeskundige verklaring over [slachtoffer 8] vermeldt de volgende bevindingen van het onderzoek op 7 mei 2015:
+
+- Een forse zwelling van het linkeroog;
+
+- Een hematoom boven het linkeroog;
+
+- breuk oogkas en jukbeen links.
+
+[slachtoffer 9]
+bevestigde desgevraagd door de politie dat hij slachtoffer was van het incident dat op 7 mei 2015 plaatsvond bij de [naam café 2] aan de [adres 4] in Sittard.
+
+De politie analyseerde de camerabeelden in en buiten het [naam café 2] te Sittard van 7 mei 2015 en relateerde dat zij daarop het volgende waarnam:
+
+De [hierna weergegeven, rb] tijd loopt 29 minuten en 42 seconden achter op de werkelijke tijd.
+
+19.59.00
+
+uur: De eerste motor, bestuurder [slachtoffer 7] , arriveert en wordt geparkeerd aan de buitenzijde van de terrasafscheiding.
+
+19.59.12
+
+uur: De tweede motor, bestuurder [slachtoffer 9] , wordt eveneens geparkeerd aan de buitenzijde van de terrasafscheiding.
+
+19.59.20
+
+uur: De derde motor, bestuurder [slachtoffer 8] , wordt geparkeerd aan de binnenzijde van de terrasafscheiding.
+
+20.00.06
+
+uur: Terwijl de motorrijders bezig zijn met het afzetten van hun helm, komt [verdachte 10] met achter zich aan een grote groep personen het plein opgelopen in de richting van café de ’ [naam café 2] ’. Als de groep, van naar schatting zo'n 15 personen, onder aanvoering van [verdachte 10] dicht genoeg genaderd is, is te zien dat de meesten van hen de colors van de MC Bandidos dragen.
+
+20.00.18
+
+uur: [verdachte 10] blijft aan de buitenzijde van de terrasafscheiding staan en spreekt kennelijk de drie eerder genoemde motorrijders toe.
+
+20.00.41
+
+uur: Een man, later herkend als [verdachte 2] , is voor [slachtoffer 7] gaan staan. Hij geeft [slachtoffer 7] een kopstoot en slaat meteen hierna met gebalde linkervuist tegen het gezicht van [slachtoffer 7] . Meteen hierna wordt [slachtoffer 7] door [verdachte 13]  tegen de grond getrokken. [verdachte 2] gaat ook naar de grond. Wat er zich daarna afspeelt, is buiten het zicht van de camera. Wel is te zien dat [verdachte 15] zich ook naar [verdachte 2] en [slachtoffer 7] begeeft.
+
+20.00.54
+
+uur: [verdachte 6] slaat met zijn gebalde rechtervuist tweemaal achter elkaar tegen het hoofd van [slachtoffer 8] . [slachtoffer 8] komt daardoor ten val en komt buiten het zicht van de camera te liggen. [verdachte 6] beweegt zich ook naar de grond waar [slachtoffer 8] terecht gekomen is. Meteen sluit [verdachte 3] bij [verdachte 6] aan. [verdachte 3] heeft in zijn rechterhand een boksbeugel waarmee hij slaande bewegingen maakt in de richting van de plaats waar [slachtoffer 8] terecht is gekomen. [verdachte 14] en [verdachte 21] begeven zich naar de plaats waar [slachtoffer 8] kennelijk op de grond ligt. Voordat zij echter iets kunnen doen, wordt er kennelijk vanuit het café door een ruit geschoten.
+
+20.00.56
+
+uur: [verdachte 1] slaat diverse malen met gebalde rechtervuist in de nek van [slachtoffer 9] . [slachtoffer 9] valt hierdoor voorover over de terrasafscheiding op de grond. Hij komt terecht tussen de motor van [slachtoffer 8] en de grote ruit van het café. [verdachte 13] stapt over de terrasafscheiding en trapt met de onderzijde van zijn rechtervoet kennelijk op de onderbenen van [slachtoffer 9] . [verdachte 1] heeft zijn rechterbeen over de terrasafscheiding gestoken en trapt herhaalde malen met kracht met de onderzijde van zijn voet kennelijk op de benen van [slachtoffer 9] . [verdachte 4] neemt een aanloop, springt op en landt op het hoofd van [slachtoffer 9] . [verdachte 13] duwt daarna de motor van [slachtoffer 8] om richting [slachtoffer 9] .
+
+20.01.07
+
+uur: Uit de richting van de ruit van het [naam café 2] ’ is een witte wolk (pluim) te zien. Te zien is dat [verdachte 13] deze wolk (pluim) gedeeltelijk in zijn gezicht krijgt. Hij duikt meteen weg en grijpt met beide handen naar zijn hoofd. Dat schot is voor de vechtende Bandidos het sein om zich terug te trekken.
+
+Naast de hiervoor genoemde personen werden door de politie op (een printscreen met tijdstip 20.00.33 uur van) de camerabeelden ook herkend: [verdachte 9] (staand naast [verdachte 10] ), [verdachte 22]  , [verdachte 17] , [verdachte 12] en [verdachte 7] .
+
+De rechtbank heeft op de camerabeelden – zakelijk weergegeven – onder andere het volgende waargenomen:
+
+De persoon die is herkend als [verdachte 9] staat in het begin naast [verdachte 10] . Op enig moment is rechtsboven in beeld te zien dat [verdachte 2] de jas van [slachtoffer 7] lijkt vast te pakken en vervolgens [slachtoffer 7] naar zich toetrekt, terwijl hij zelf met zijn hoofd hard vooruit gaat. [slachtoffer 7] wordt daarna vastgepakt door zowel [verdachte 2] als [verdachte 13] . [verdachte 9] begeeft zich richting deze de vechtpartij begeeft en stopt ter hoogte van de lantaarnpaal, staat dan achter [verdachte 13] en [verdachte 1] en loopt richting een motor. Hij doet iets met zijn tas en komt in actie door met versnelde pas om te lopen. Hij rent tot bij de fietsen die bij de andere lantaarnpaal staan en stopt. Vervolgens vindt het kennelijke schot plaats en rent iedereen weg.
+
+De persoon aangeduid als [slachtoffer 9] staat op enig moment gebukt en wordt door de personen, herkend als [verdachte 1] en [verdachte 13] , van voren en van achteren geslagen. Daarna valt [slachtoffer 9] over de terrasafscheiding heen. Hij wordt nog steeds geslagen. Vervolgens is de voet van [verdachte 13] te zien, die trapt naar het onderlichaam of de benen van [slachtoffer 9] . [verdachte 1] staat rechts van [verdachte 13] . [verdachte 1] slaat nog één keer. Op dat moment komt ook [verdachte 4] met versnelde pas aanlopen. [verdachte 14] die bij de terrasafscheiding staat, wordt door [verdachte 4] weggeduwd, die de bocht om vliegt. Op het moment dat [verdachte 4] bij [slachtoffer 9] arriveert, is rechts in beeld te zien dat het hoofd van [slachtoffer 9] vlakbij de grond is. [verdachte 4] springt vervolgens op het hoofd van [slachtoffer 9] , waardoor dat hoofd eerst naar de grond en daarna weer omhoog beweegt. Vervolgens wordt door [verdachte 13] de motor omgeduwd. [verdachte 1] is dan met een been over de terrasafscheiding heen gestapt en stampt [slachtoffer 9] meerdere keren. Te zien is dat het been van [verdachte 1] omhoog en vervolgens met kracht naar beneden beweegt.
+
+OVC-gesprekken voorafgaand aan de vechtpartij
+
+OVC-gesprekverslagen
+uit de auto van [verdachte 3] van 7 mei 2016 vermelden – zakelijk weergegeven – onder meer het volgende:
+
+14.20
+
+uur ( [verdachte 3] , [partner verdachte 3] en kind in het voertuig)
+
+[partner verdachte 3] : Maar wat gaan jullie eigen doen en wat is nu eigenlijk de bedoeling vanavond met die mensen? Gaan jullie hen/hem gewoon waarschuwen of wat?
+
+17.45
+
+uur ( [verdachte 3] en [verdachte 4] in het voertuig)
+
+[verdachte 4] : Ik vind dat wel allemaal een beetje dom onder cameratoezicht. We moeten hem maar eens even een half jaar het ziekenhuis in slaan of zo, of steken.
+
+De peilbakengegevens van de auto van [verdachte 3] vermelden een stop aan het adres [adres 8] te Nieuwstadt van 17.51 uur tot 18.23 uur.
+
+De OVC-gesprekverslagenuit de auto van [verdachte 3] vermelden voorts – zakelijk weergegeven – onder meer het volgende.
+
+18.55
+
+uur ( [verdachte 3] en [verdachte 4] in het voertuig)
+
+[verdachte 3] zegt dat hij het niet normaal vindt dat die jongen erbij is. [verdachte 9] heeft dat geregeld. [verdachte 4] begrijpt er ook niets van. [verdachte 3] gaat daar vrijdag wel iets over zeggen, want dan gaat hij niet meer mee. [verdachte 3] kent hem niet en weet niet wat 'hij' doet als hij vast komt te zitten. En dat is gisteren niet afgesproken.
+
+18.57
+
+uur ( [verdachte 14] is ook ingestapt)
+
+[verdachte 14] : Weet je wat eigenlijk is, we moeten de volgende keer een code afspreken. Bijvoorbeeld code 20 of zoiets, dan weten we dat we allemaal een kogelvrij vest moeten aandoen en dat we wat moeten meenemen, weet je wel. Nu wordt ons gebeld, ja we moeten daar zijn bij [verdachte 10] . Ja. Ik bel op, nog eens een keer [verdachte 9] : [verdachte 9] , moet ik in de trainingsbroek aankomen of in eh… spijkerbroek? Ja spijkerbroek, ja dan weet ik dat ik mijn colors moet aandoen, begrijp je.
+
+(…)
+
+[verdachte 4] wil overstappen in een andere auto maar [verdachte 14] zegt dat hij dat niet moet doen anders gaat [verdachte 4] zich daar druk maken. Als [verdachte 4] daar dadelijk staat en iemand iets verkeerds zegt, dan stijgt de bloeddruk van [verdachte 4] en begint hij meteen te slaan. Daarom moet [verdachte 14] ook niet bij het gesprek zijn. [verdachte 3] zegt dat het zo is afgesproken. [verdachte 4] zegt dat dit klopt.
+
+[verdachte 4] : Maar wij zien dadelijk helemaal niks. Dadelijk zitten er daar 5 of 6 man binnen.
+
+[verdachte 14] : Dat kunnen we zien.
+
+[verdachte 3] : Dat weet ik niet. Ik weet helemaal niet waar die man woont.
+
+[verdachte 14] : Die woont daar vlakbij [verdachte 21] .
+
+[verdachte 3] : En waar gaan wij dan staan.
+
+[verdachte 14] : We moeten nou bij [verdachte 21] … Dan doen wij dadelijk gewoon de colors, doen we dadelijk onder onze jas en dan gaan we kijken. Begrijp je?
+
+[verdachte 3] : Nae, dat maakt niet uit. Die kennen ons allemaal jongen. Die hebben allemaal een foto van ons al een keer gezien. Die weten beter wie wij zijn, als wij hun.
+
+De peilbakengegevens van de auto van [verdachte 3] vermelden vanaf 19.07 uur achtereenvolgens een stop op de [adres 4] (19.07 uur), een stop op de [adres 12] (19.09-19.33 uur), beweging op de [adres 4] (19.34-19.40 uur), een stop op de [adres 12] (19.40-20.12 uur), beweging op de [adres 4] (20.13) en een stop op de [adres 12] (20.14-20.24 uur).
+
+De OVC-gesprekverslagen uit de auto van [verdachte 3] vermelden voorts – zakelijk weergegeven – onder meer het volgende.
+
+19.32
+
+uur ( [verdachte 3] en [verdachte 4] , [verdachte 1] en [verdachte 6] stappen in de auto)
+
+[verdachte 1] : Ik denk dat je nu gaat praten en dat je weer hetzelfde bereikt als wat we altijd bereiken. Helemaal niks. En dat je over drie weken staat weer ergens iets in de fik, leggen ze een granaat voor het clubhuis ofzo.
+
+(…)
+
+[verdachte 6] : We moeten een verantwoordelijk stellen. Die moeten we aanpakken.
+
+[verdachte 3] : Als we hem nu niet thuis niet te pakken krijgen moeten we eigenlijk naar die Sergeant of Arms toe. Dat is die jongen waar [verdachte 12] het nummer van heeft. Volgens mij die met die gouden tanden, [naam 4] volgens mij.
+
+19.37
+
+uur ( [verdachte 3] en [verdachte 4] , [verdachte 1] en [verdachte 6] in de auto)
+
+[verdachte 6] : hier was die café he.
+
+[verdachte 3] : Ja hier links.
+
+(…)
+
+[verdachte 3] : Ik zet ‘m hier.
+
+[verdachte 1] : …ntv… dadelijk nog eens met [verdachte 2] …
+
+[verdachte 6] : ja ja we wisselen van auto he.
+
+20.22
+
+uur ( [verdachte 3] , [verdachte 15] en [verdachte 4] in de auto)
+
+[verdachte 3] : Ik volg gewoon [verdachte 10] en ik zie het wel.
+
+Gesprekje over wat ze zien en dat ze [verdachte 10] gewoon volgen.
+
+20.25
+
+uur Motor wordt afgezet en ze stappen uit. Op de achtergrond zijn stemmen te horen.
+
+20.27
+
+uur: Op de achtergrond wordt door een persoon geroepen …ntv… Holland …ntv…
+
+20.28
+
+uur: Geschreeuw op de achtergrond. Een NN-vrouw zegt wat er aan de hand is… er is ruzie met die mannen.
+
+20.28
+
+uur: Vervolgens weer geschreeuw en een klap/slag/schot.
+
+De peilbakengegevens van de auto van [verdachte 3] vermelden een bakenstop van 20.26 tot 20.38 uur op de [adres 4] te Sittard.
+
+OVC-gesprekken na afloop van de vechtpartij
+
+OVC-gesprekverslagen
+uit de auto van [verdachte 3] van 7 mei 2016 vermelden – zakelijk weergegeven – onder meer het volgende:
+
+20.29
+
+uur ( [verdachte 4] , [verdachte 3] en [verdachte 15] in het voertuig)
+
+[verdachte 4] : Heb ik geluk gehad jongen… Over mijn kop heen he.
+
+[verdachte 3] : [verdachte 13] die heeft heel zijn gezicht open liggen.
+
+[verdachte 4] : Ja, het is de laatste keer dat ik zonder iets ergens naar toe ga.
+
+(...)
+
+[verdachte 3] : Ik sloeg er een met de boksbeugel over zijn gezicht heen. Dat is kut he, da het niet gewoon rood-wit zelf was hé.
+
+(…)
+
+[verdachte 4] : Is wel lekker zo een keer.
+
+[verdachte 3] : Ja weet je wat het is, volgende keer man, dan moeten we godverdomme terug knallen.
+
+(…)
+
+[verdachte 4] : Bij mij zitten geen knokkels meer zie je, alleen van het knokken.
+
+20.37
+
+uur ( [verdachte 3] en [verdachte 4] in het voertuig)
+
+[verdachte 3] : Godverdomme ik moet ook een dingen hebben man… Ik was mee terug beginnen te knallen. Het is zo kut dat het prospects waren van Red Devils he. Dat had gewoon eigenlijk rood-wit zelf moeten zijn, weet je dat? Maar ja, nou hebben we wel weer hetzelfde terug gedaan als hun hebben gehad.
+
+[verdachte 4] : Maar krijgen die een grote mond dan?
+
+[verdachte 3] : Weet ik niet… Maar op een gegeven eh, want [verdachte 2] begon he? Jaaa, die begon, maar eh… want toen die ene zoveel klappen, dat [verdachte 1] zei: Moet je je maatje niet helpen? En toen begon [verdachte 1] he. Klets klets… en toen sprong [verdachte 6] , en ikke met [verdachte 6] op ene.
+
+[verdachte 4] : Ik heb ook ene flink te pakken gehad, heb je dat gezien? Die [verdachte 1] die sloeg toch een over dat schot heen. Die heb ik op zijn kop staan stampen [verdachte 3] .
+
+[verdachte 3] : Maar [verdachte 1] dan met zijn Spaans, die was aan het trappen in het Spaans “Punta.”
+
+(…)
+
+[verdachte 4] : Ik moet zo’n ding hebben.[verdachte 3] : Ja, ik ga er morgen bij [betrokkene 4] een halen.
+
+(…)
+
+20.42
+
+uur ( [verdachte 3] en [verdachte 4] in het voertuig)
+
+[verdachte 3] : Daar heb je de wouten.
+
+[verdachte 4] : Hadden we eigenlijk de hesjes …ntv… moeten…
+
+[verdachte 3] : Ja, maar ik heb het gelukkig hier overeen zitten.
+
+[verdachte 4] : Nee jongen kom op hey. Ik ben niet voor niks bij een bende gegaan.
+
+(…)
+
+[verdachte 3] : Maar ik pak wel niets meer op me van niemand. Dat doe ik niet meer.
+
+(…)
+
+[verdachte 4] : een knokpartijtje, half jaar he?
+
+[verdachte 3] : Het was misschien ook wel precies op tijd dat dat gebeurde, anders slaan we misschien ene half lam ofzo.
+
+[verdachte 4] : Dan stamp je hem misschien dood. Ik was hem zo op zijn kop aan het rammen.
+
+(…)
+
+[verdachte 3] : Die [verdachte 1] …. Puta, puta madre… klets, klets… En hij was aan het schoppen met zijn lange stelten. ( [verdachte 4] lacht.) Lekker hé, zegt hij op een gegeven moment.
+
+(…)
+
+[verdachte 4] : Heb je gehoord wat ik tegen die [verdachte 22] zei?
+
+[verdachte 3] : Nee.
+
+[verdachte 4] : [verdachte 1] gaf mij gelijk. [verdachte 6] en 3 members van ons stonden met elkaar te praten …ntv… hij zich mee bemoeid. Dus ik riep hem weg en toen stond [verdachte 1] bij mij en [verdachte 10] enzo. Ik zeg: Luister jongen, dit is de laatste keer dat je tegen…. De eerste en de laatste keer. Ik zeg: dat zijn 3 members, die zijn met elkaar aan het praten. [verdachte 1] zei: dan moet je eigenlijk al weglopen.
+
+23.12
+
+uur ( [verdachte 3] en [verdachte 6] in de auto)
+
+[verdachte 6] : Maar dat is wel goede reclame voor ons, want in die sportschool, daar stond allemaal volk en toen lagen wij met die colors van de Bandidos boven op die mannen… knak, knak.. Dus die zeggen toch: Met de Bandidos moet je niet sollen.
+
+[verdachte 3] : Ja… Daar zitten een paar gekken bij.
+
+[verdachte 3] : Ik zag die [verdachte 1] te keer gaan he. Maar het mooiste was… Hij zegt zo tegen die gast: Moet jij je brother niet helpen? Dus die man loopt er heen. Klets (hard gesproken) ging het.
+
+[verdachte 6] : ja, die wilde op hem slaan.
+
+[verdachte 3] : Jij was bezig met die jongen die voorbij kwam gelopen.
+
+[verdachte 6] : Holland is van ons zei [verdachte 10] . Ja, Holland is van ons. Hahaha zei hij.
+
+Restaurant [naam café 3] Kerkrade 7 mei 2015
+
+Op 7 mei 2015 omstreeks 23.55 uur komt een melding bij de politie binnen dat een 30-tal Bandidos in full colors op de Markt in Kerkrade trachten om horecagelegenheden naar binnen te gaan.
+
+De peilbakengegevens van de Opel Vectra [nummer kenteken 2] van [verdachte 3] melden een stop in de Kapellaan, die grenst aan de Markt, te Kerkrade, in de nacht van 7 op 8 mei 2015 van 23.21 tot 00.08 uur.
+
+Op 8 mei 2015 om 11.05 uur wordt met nummer ( [gsm nummer 1] ) in gebruik bij [verdachte 1] , een MMS bericht verstuurd naar een Duits telefoonnummer. Dit bericht bevat een foto van een groot aantal Bandidosleden die geposteerd zijn voor het restaurant [naam café 3] aan de [adres 7] te Kerkrade. Dit voormalig restaurant is een ontmoetingsplek van de Hell's Angels en de Red Devils (Supportclub Hell's Angels). (…) Dat het pand in gebruik is bij  OMG de Hells Angels kan mede worden afgeleid uit het bord aan de gevel van het pand met de cijfers 81 (Cijfermatig worden daarmee de letters H (ells) en A (Angels) uit het alfabet aangeduid). (…) Via een EPICC bevraging werd informatie verkregen, dat de Duitse telefoonaansluiting [gsm nummer 2] in gebruik was bij een prominent Bandidos Nomads lid uit Duitsland, [lid bandidos Duitsland] .
+
+Op de foto werden herkend: [verdachte 10] , [verdachte 1] , [verdachte 22]  , [verdachte 2] , [verdachte 7] , [verdachte 12] , [verdachte 21] , [verdachte 15] , [verdachte 6] , [verdachte 9] , [verdachte 4] , [verdachte 3] , [verdachte 13] , [verdachte 20] en [verdachte 14] .
+
+Overige verklaringen
+
+[getuige 11]
+was niet bereid om een getuigenverklaring af te leggen en zei daarbij: “Ik ben al bedreigd en eentje woont hier vlak bij.”
+
+[getuige 14] is de partner van [getuige 11] . Hij wordt verdacht van het lossen van een schot vanuit de [naam café 2] richting de vechtpartij die op 7 mei 2015 voor de [naam café 2] plaatsvond. (Dit schot is op de beelden zichtbaar door de pluim van glas).
+
+[getuige 14]
+verklaarde – als verdachte – onder meer:
+
+U toont mij de camerabeelden van 7 mei 2015. We zijn eerder bedreigd geweest, er gaat dan zoveel adrenaline door je heen. Ik weet echt niet wat ik gedacht heb. Dat speelt al heel lang en ja mijn vriendin is een keer bedreigd, samen met mijn zoontje die was toen zes maanden. We hebben toen de politie om hulp gevraagd, en ondanks dat ik vroeger altijd heb meegeholpen, kwam hulp niet. We hebben constant op onze tenen gelopen omdat het ieder moment kon ontploffen. Dat is niet alleen op de bedreiging zelf, maar ook al van te voren dat er dingen gebeuren. De bedreiging staat gewoon op beeld. Welke mensen ik bedoel? Ik ben al bedreigd, daar doe ik geen uitspraken over. Ik ben bang voor represailles als ik hier iets over zeg.
+
+Zaakdossier 10A: (Voorbereidingshandelingen) Opiumwetdelicten
+
+Tijdens de actiedag van het onderzoek Kievit op 27 mei 2015 vond een doorzoeking plaats in de woning van [verdachte 10] , [adres 8] te Nieuwstadt. Daarbij werden onder meer aangetroffen en in beslag genomen 84 gram (bruto) vermoedelijke hasjiesj. Dit blok werd aangetroffen in het keukenblok. Een monster hiervan reageerde bij een MMC-kleurreactietest positief op de aanwezigheid van cannabis.
+
+Bijlage III: de beslaglijst
+
+[scan beslaglijst]
+
+Waar in deze paragraaf wordt verwezen naar paginanummers, wordt - tenzij anders vermeld - gedoeld op paginanummers uit het proces-verbaal van politie eenheid Limburg, dienst regionale recherche, afdeling Generiek, team opsporing, proces-verbaalnummer 2015093950-Z01, zaakdossier 1 van het onderzoek Kievit (met onderzoeksnummer 2451114005), gesloten d.d. 7 juli 2016, doorgenummerd van pagina 1 tot en met pagina 966.
+
+Proces-verbaal van bevindingen d.d. 29 juni 2016, pg. 373-378 van zaakdossier 1.
+
+Proces-verbaal van bevindingen onderzoek beslag Kievit – item 044 – [verdachte 13] d.d. 15 oktober 2015, pg. 281-294 van zaakdossier 1.
+
+Een geschrift, te weten een ledenlijst getiteld “Bandidos MC Sittard”, pg. 299-300 van zaakdossier 1.
+
+Proces-verbaal zaakdossier 1, pg. 24.
+
+Geschriften, te weten verslagen van “meetings”, pg. 302-333 van zaakdossier 1.
+
+Een geschrift getiteld “meeting 18 february”, pg. 321-323 van zaakdossier 1.
+
+Een geschrift getiteld “meeting 25 maart”, pg. 329-330 van zaakdossier 1.
+
+Geschriften, te weten verslagen van “meetings”, pg. 302-333 van zaakdossier 1.
+
+Proces-verbaal van bevindingen onderzoek beslag Kievit – item 170 – [verdachte 7] d.d. 28 oktober 2015, pg. 351-366 van zaakdossier 1.
+
+Een geschrift getiteld “Bandidos MC Sittard Holland, Holland regels”, pg. 367-368.
+
+Proces-verbaal bevindingen inbeslagneming handboek Bandidos d.d. 6 november 2015, pg. 392-393.
+
+Een geschrift, getiteld “Bible of the Bandidos motorcycleclub Europe” edition 2014/2015, pg. 1354-1429 van zaakdossier 1.
+
+Proces-verbaal van bevindingen d.d. 29 juni 2016, pg. 373-378 van zaakdossier 1.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2016, pg. 13-14.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2016, pg. 73.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2015, pg. 71.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2016, pg. 19.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2016, pg. 73.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2015, pg. 20.
+
+Proces-verbaal zaakdossier 1 d.d. 7 juli 2015, pg. 68.
+
+Waar in deze paragraaf wordt verwezen naar paginanummers, wordt - tenzij anders vermeld - gedoeld op paginanummers uit het proces-verbaal van politie eenheid Limburg, dienst regionale recherche, afdeling Generiek, team opsporing, proces-verbaalnummer 2015093950-Z09, zaakdossier 9 van het onderzoek Kievit (met onderzoeksnummer 2451114005), gesloten d.d. 17 mei 2016, doorgenummerd van pagina 1 tot en met pagina 378.
+
+Proces-verbaal aangifte [getuige 11] d.d. 25 januari 2015, pg. 290-292 van zaakdossier 9.
+
+Proces-verbaal uitwerking videobeelden [naam café 2] 24-1-2015 d.d.
+
+Proces-verbaal van bevindingen d.d. 14 juli 2015, pg. 322 van zaakdossier 9.
+
+Proces-verbaal 1e verhoor getuige [getuige 12] d.d. 23 juni 2015, pg. 324-327.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 66.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 67.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 67-79.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 82.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 87-93.
+
+Proces-verbaal van bevindingen uitluisteren meldkamerbestanden d.d. 14 oktober 2016, pg. 111-113 van zaakdossier 9.
+
+Proces-verbaal van bevindingen d.d. 8 mei 2015, pg. 133-135 van zaakdossier 9.
+
+Proces-verbaal aangifte [slachtoffer 7] d.d. 8 mei 2015, pg. 158-161 van zaakdossier 9.
+
+Proces-verbaal aangifte [slachtoffer 8] d.d. 7 mei 2015, pg. 170-171 van zaakdossier 9.
+
+Een geschrift, te weten een geneeskundige verklaring d.d. 26 oktober 2015 van [naam 5] , arts, pg. 185 van zaakdossier 9.
+
+Proces-verbaal van bevindingen d.d. 18 mei 2015, pg. 194 van zaakdossier 9.
+
+Proces-verbaal uitkijken video 7 mei 2015 d.d. 26 oktober 2015, pg. 99-109 van zaakdossier 9.
+
+Proces-verbaal uitkijken video 7 mei 2015 d.d. 26 oktober 2015, pg. 99-109 (in het bijzonder pg. 105-106) van zaakdossier 9.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 15-16.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 16.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 17-18.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 19-20.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 20-24.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 20166, pg. 23.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 32-44.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 50.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 54.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 55.
+
+Proces-verbaal zaakdossier 9 d.d. 17 mei 2016, pg. 56.
+
+Proces-verbaal van bevindingen d.d. 14 mei 2015, pg. 137-138 van zaakdossier 9.
+
+Proces-verbaal van verhoor verdachte [getuige 14] d.d. 3 juni 2015, pg. 220-233 van zaakdossier 9.
+
+Waar in deze paragraaf wordt verwezen naar paginanummers, wordt - tenzij anders vermeld - gedoeld op paginanummers uit het proces-verbaal van politie eenheid Limburg, dienst regionale recherche, afdeling Generiek, team opsporing, proces-verbaalnummer 2015093950-Z10A, zaakdossier 10A van het onderzoek Kievit (met onderzoeksnummer 2451114005), gesloten d.d. 23 mei 2016, (incl. aanvulling d.d. 11 oktober 2016) doorgenummerd van pagina 1 tot en met pagina 909.
+
+Proces-verbaal zaakdossier 10A d.d. 23 mei 2016, pg. 194.
+
+Een geschrift, te weten een kavellijst m.b.t. [adres 8] Nieuwstad, pg. 335 van zaakdossier 10A.
+
+Proces-verbaal van MMC-testen d.d. 29 mei 2015, pg. 338-339 van zaakdossier 10A.

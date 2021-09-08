@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:7037"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1212", "PR-Updates.nl PR-2021-0183", "PJ 2021/148 met annotatie van T. Huijg", "VAAN-AR-Updates.nl 2021-1212"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1212", "PR-Updates.nl PR-2021-0183", "PJ 2021/148 met annotatie van T. Huijg", "VAAN-AR-Updates.nl 2021-1212", "PR-Updates.nl 2021-0183"]
 ---
 
 # ECLI:NL:RBLIM:2021:7037 Rechtbank Limburg , 08-09-2021 / 9348268 CV EXPL 21-3550

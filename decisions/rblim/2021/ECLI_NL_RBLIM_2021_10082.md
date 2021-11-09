@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:10082"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0063", "JPF 2022/48"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0063", "JPF 2022/48", "PR-Updates.nl 2022-0063"]
 ---
 
 # ECLI:NL:RBLIM:2021:10082 Rechtbank Limburg , 09-11-2021 / C/03/288933 / FA RK 21-704

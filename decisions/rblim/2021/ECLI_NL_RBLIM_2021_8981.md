@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:8981"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0023"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0023", "PR-Updates.nl 2022-0023"]
 ---
 
 # ECLI:NL:RBLIM:2021:8981 Rechtbank Limburg , 24-11-2021 / C/03/281874 / HA ZA 20-433

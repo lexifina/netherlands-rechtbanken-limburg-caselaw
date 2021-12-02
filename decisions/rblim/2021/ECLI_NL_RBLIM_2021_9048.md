@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:9048"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8604"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4130, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2021:9048 Rechtbank Limburg , 02-12-2021 /  ROE 19/2410, 19/2486, 19/2570 en 19/2746

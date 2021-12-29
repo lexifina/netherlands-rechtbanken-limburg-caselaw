@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:10014"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:3194"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:3194"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2967"]]
 ---
 
 # ECLI:NL:RBLIM:2021:10014 Rechtbank Limburg , 29-12-2021 / C/03/262514 / HA ZA 19-174

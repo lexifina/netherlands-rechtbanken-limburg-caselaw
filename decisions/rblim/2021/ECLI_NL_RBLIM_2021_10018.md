@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2021:10018"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0032", "ERF-Updates.nl 2022-0053", "RN 2022/32", "PJ 2022/50", "JONDR 2022/351", "JERF Actueel 2022/25"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0032", "ERF-Updates.nl 2022-0053", "RN 2022/32", "PJ 2022/50", "JONDR 2022/351", "JERF Actueel 2022/25", "PR-Updates.nl 2022-0032"]
 ---
 
 # ECLI:NL:RBLIM:2021:10018 Rechtbank Limburg , 29-12-2021 / C/03/286782 / HA ZA 20-646

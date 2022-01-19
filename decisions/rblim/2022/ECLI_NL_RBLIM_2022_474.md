@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:474"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/337", "PR-Updates.nl PR-2022-0062"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/337", "PR-Updates.nl PR-2022-0062", "PR-Updates.nl 2022-0062"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2023:2462"]]
 ---
 

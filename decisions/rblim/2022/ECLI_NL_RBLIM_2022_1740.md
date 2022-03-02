@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:1740"
-published_in: ["Rechtspraak.nl", "PJ 2022/34", "PR-Updates.nl PR-2022-0067"]
+published_in: ["Rechtspraak.nl", "PJ 2022/34", "PR-Updates.nl PR-2022-0067", "PR-Updates.nl 2022-0067"]
 ---
 
 # ECLI:NL:RBLIM:2022:1740 Rechtbank Limburg , 02-03-2022 / C/03/284871 / HA ZA 20-568

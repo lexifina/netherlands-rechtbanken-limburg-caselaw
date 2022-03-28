@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:2375"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/136 met annotatie van mr. A.C.A.D. Bakker"]
 ---
 
 # ECLI:NL:RBLIM:2022:2375 Rechtbank Limburg , 28-03-2022 / ROE 20/3038

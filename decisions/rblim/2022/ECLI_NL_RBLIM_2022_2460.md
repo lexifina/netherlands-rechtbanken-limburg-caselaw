@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:2460"
 published_in: ["Rechtspraak.nl", "JM 2022/82 met annotatie van Olivier, R."]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:363, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RBLIM:2022:2460 Rechtbank Limburg , 30-03-2022 / AWB - 20/ 2159

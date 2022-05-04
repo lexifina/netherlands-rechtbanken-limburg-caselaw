@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:3489"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0568", "PR-Updates.nl PR-2022-0120", "PJ 2022/69", "VAAN-AR-Updates.nl 2022-0568"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0568", "PR-Updates.nl PR-2022-0120", "PJ 2022/69", "VAAN-AR-Updates.nl 2022-0568", "PR-Updates.nl 2022-0120"]
 ---
 
 # ECLI:NL:RBLIM:2022:3489 Rechtbank Limburg , 04-05-2022 / 9479603 CV EXPL 21-4719

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:10667"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2023/80", "Sdu Nieuws Financieel recht 2023/88", "PJ 2023/44 met annotatie van B.M.M. van der Goes", "PR-Updates.nl PR-2023-0080", "NTHR 2023, afl. 3, p. 103"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2023/80", "Sdu Nieuws Financieel recht 2023/88", "PJ 2023/44 met annotatie van B.M.M. van der Goes", "PR-Updates.nl PR-2023-0080", "NTHR 2023, afl. 3, p. 103", "PR-Updates.nl 2023-0080"]
 ---
 
 # ECLI:NL:RBLIM:2022:10667 Rechtbank Limburg , 13-07-2022 / 9479158 CV EXPL 21-4707

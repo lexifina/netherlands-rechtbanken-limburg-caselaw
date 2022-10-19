@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2022:8051"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5995, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2022:8051 Rechtbank Limburg , 19-10-2022 / ROE 20/2972, ROE 20/2973, ROE 20/2975, ROE 20/2976, ROE 20/2977, ROE 20/2978, ROE 20/2979, ROE 20/29

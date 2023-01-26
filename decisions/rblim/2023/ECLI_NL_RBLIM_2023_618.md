@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:618"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4090, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2023:618 Rechtbank Limburg , 26-01-2023 / ROE 22/2644 en ROE 22/2490

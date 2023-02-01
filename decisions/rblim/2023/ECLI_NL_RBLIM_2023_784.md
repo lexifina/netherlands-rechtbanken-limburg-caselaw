@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:784"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0261", "Sdu Nieuws Arbeidsrecht 2023/89", "PR-Updates.nl PR-2023-0033", "PJ 2023/38", "Prg. 2023/128", "VAAN-AR-Updates.nl 2023-0261"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0261", "Sdu Nieuws Arbeidsrecht 2023/89", "PR-Updates.nl PR-2023-0033", "PJ 2023/38", "Prg. 2023/128", "VAAN-AR-Updates.nl 2023-0261", "PR-Updates.nl 2023-0033"]
 ---
 
 # ECLI:NL:RBLIM:2023:784 Rechtbank Limburg , 01-02-2023 / 10156322/AZ/22-104 01022023

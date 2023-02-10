@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:1044"
 published_in: ["Rechtspraak.nl", "JBP 2023/53"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4845, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2023:1044 Rechtbank Limburg , 10-02-2023 / ROE 21/487

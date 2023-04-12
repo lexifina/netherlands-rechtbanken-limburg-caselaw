@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:2435"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2023-0226", "VR 2024/106"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2023:7698"], ["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2025:2714"], ["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2025:5982"], ["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2026:3736"]]
 ---
 
 # ECLI:NL:RBLIM:2023:2435 Rechtbank Limburg , 12-04-2023 / C/03/297689 / HA ZA 21-538

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:3154"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0103", "PJ 2023/94"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0103", "PJ 2023/94", "PR-Updates.nl 2023-0103"]
 ---
 
 # ECLI:NL:RBLIM:2023:3154 Rechtbank Limburg , 19-04-2023 / C/03/304661 / HA ZA 22-199

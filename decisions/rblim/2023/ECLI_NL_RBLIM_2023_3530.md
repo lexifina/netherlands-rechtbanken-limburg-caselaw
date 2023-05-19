@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:3530"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2023/376", "PR-Updates.nl PR-2023-0135", "FJR 2023/44.3"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2023/376", "PR-Updates.nl PR-2023-0135", "FJR 2023/44.3", "PR-Updates.nl 2023-0135"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2024:1812"]]
 ---
 

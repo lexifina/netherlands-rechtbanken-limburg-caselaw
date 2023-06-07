@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:3419"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2023/8902", "JWA 2023/14"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:897, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2023:3419 Rechtbank Limburg , 07-06-2023 / ROE 21/2537

@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:3708"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:877"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:877"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2567"]]
 ---
 
 # ECLI:NL:RBLIM:2023:3708 Rechtbank Limburg , 14-06-2023 / C/03/300015 / HA ZA 21-633

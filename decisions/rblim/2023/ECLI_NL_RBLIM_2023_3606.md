@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:3606"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0789", "Sdu Nieuws Arbeidsrecht 2023/261", "PR-Updates.nl PR-2023-0122", "VAAN-AR-Updates.nl 2023-0789"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0789", "Sdu Nieuws Arbeidsrecht 2023/261", "PR-Updates.nl PR-2023-0122", "VAAN-AR-Updates.nl 2023-0789", "PR-Updates.nl 2023-0122"]
 ---
 
 # ECLI:NL:RBLIM:2023:3606 Rechtbank Limburg , 19-06-2023 / 10509602 CV EXPL. 23-2073

@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:5890"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0200", "School en Wet 2023/185"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0200", "School en Wet 2023/185", "PR-Updates.nl 2023-0200"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5202"]]
 ---
 
 # ECLI:NL:RBLIM:2023:5890 Rechtbank Limburg , 31-08-2023 / ROE 20/3604

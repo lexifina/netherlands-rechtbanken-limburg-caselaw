@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:6376"
 published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2024-0043", "OGR-Updates.nl 2024-0043"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3731, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBLIM:2023:6376 Rechtbank Limburg , 13-10-2023 / ROE 21/1900 en ROE 21/1949 en ROE 21/1959

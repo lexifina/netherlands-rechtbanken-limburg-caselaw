@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2023:6922"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0007", "NJF 2024/46"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0007", "NJF 2024/46", "BPR-Updates.nl 2024-0007"]
 ---
 
 # ECLI:NL:RBLIM:2023:6922 Rechtbank Limburg , 27-11-2023 / C/03/322955 / KG ZA 23-372

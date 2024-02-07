@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:510"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:173"]]
 ---
 
 # ECLI:NL:RBLIM:2024:510 Rechtbank Limburg , 07-02-2024 / C/03/310401 HA ZA 22-457

@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:1238"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2570"]]
 ---
 
 # ECLI:NL:RBLIM:2024:1238 Rechtbank Limburg , 13-03-2024 / 10607503 \ CV EXPL  23-2973

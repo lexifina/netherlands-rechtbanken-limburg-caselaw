@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:1361"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2913, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBLIM:2024:1361 Rechtbank Limburg , 14-03-2024 / ROE 22/313 en ROE 22/314

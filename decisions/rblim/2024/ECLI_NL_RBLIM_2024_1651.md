@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:1651"
-published_in: ["Rechtspraak.nl", "PJ 2024/59", "PR-Updates.nl PR-2024-0099"]
+published_in: ["Rechtspraak.nl", "PJ 2024/59", "PR-Updates.nl PR-2024-0099", "PR-Updates.nl 2024-0099"]
 ---
 
 # ECLI:NL:RBLIM:2024:1651 Rechtbank Limburg , 20-03-2024 / C/03/312005 / HA ZA 22-541

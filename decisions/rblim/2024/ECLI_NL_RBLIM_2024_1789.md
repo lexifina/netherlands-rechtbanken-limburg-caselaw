@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:1789"
 published_in: ["Rechtspraak.nl", "PR-Updates.nl 2024-0102", "PJ 2024/66 met annotatie van L.A.J. Kuijpers", "PR-Updates.nl PR-2024-0102"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2832"]]
 ---
 
 # ECLI:NL:RBLIM:2024:1789 Rechtbank Limburg , 10-04-2024 / 9890949 \ CV EXPL  22-2390

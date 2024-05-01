@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:2194"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:3695"]]
 ---
 
 # ECLI:NL:RBLIM:2024:2194 Rechtbank Limburg , 01-05-2024 / C03.305415/HA ZA 22-231

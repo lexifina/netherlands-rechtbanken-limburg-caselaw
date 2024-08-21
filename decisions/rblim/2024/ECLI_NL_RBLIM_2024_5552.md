@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:5552"
 published_in: ["Rechtspraak.nl", "JERF Actueel 2024/551", "ERF-Updates.nl 2025-0016", "VEAN-ERF-Updates.nl 2025-0016"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2745"]]
 ---
 
 # ECLI:NL:RBLIM:2024:5552 Rechtbank Limburg , 21-08-2024 / C03.296325/HA ZA 21-464

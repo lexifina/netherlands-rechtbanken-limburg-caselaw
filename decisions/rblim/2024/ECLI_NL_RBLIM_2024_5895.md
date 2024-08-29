@@ -10,6 +10,7 @@ procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:5895"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-1566", "VAAN-AR-Updates.nl 2024-1566"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:1052"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2897"]]
 ---
 
 # ECLI:NL:RBLIM:2024:5895 Rechtbank Limburg , 29-08-2024 / 11244192 \ CV EXPL  24-4061

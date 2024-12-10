@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:9137"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3368, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2024:9137 Rechtbank Limburg , 10-12-2024 / ROE 24/4470 en ROE 24/4534

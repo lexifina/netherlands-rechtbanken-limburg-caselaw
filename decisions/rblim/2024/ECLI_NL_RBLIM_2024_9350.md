@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:9350"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2025-0011"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2025-0011", "PR-Updates.nl 2025-0011"]
 ---
 
 # ECLI:NL:RBLIM:2024:9350 Rechtbank Limburg , 11-12-2024 / 10837051 CV EXPL 23-5514

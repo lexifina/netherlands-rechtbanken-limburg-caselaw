@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:9381"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0014"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1694, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBLIM:2024:9381 Rechtbank Limburg , 13-12-2024 / 03.268326.22

@@ -3,16 +3,17 @@ ecli: "ECLI:NL:RBLIM:2024:9327"
 court: "Rechtbank Limburg"
 court_code: "RBLIM"
 docket: "ROE 21/1869"
-decided: "2024-12-12"
+decided: "2024-12-13"
 published: "2024-12-12"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2024:9327"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4440, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:RBLIM:2024:9327 Rechtbank Limburg , 12-12-2024 / ROE 21/1869
+# ECLI:NL:RBLIM:2024:9327 Rechtbank Limburg , 13-12-2024 / ROE 21/1869
 
 ## Inhoudsindicatie
 

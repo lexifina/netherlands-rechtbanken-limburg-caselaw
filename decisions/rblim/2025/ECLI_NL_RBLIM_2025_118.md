@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:118"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2025/151"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:1908"]]
 ---
 
 # ECLI:NL:RBLIM:2025:118 Rechtbank Limburg , 08-01-2025 / 10935120 \ CV EXPL  24-841

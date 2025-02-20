@@ -86,7 +86,7 @@ Na de beëindiging van hun relatie is tussen partijen een geschil ontstaan over 
 
 2.3.
 
-In verband met dat geschil heeft [eiser] bij verzoekschrift van 8 augustus 2024, ter verzekering van zijn beweerde eigendomsrechten op de Disney-sartikelen, verzocht om ten laste van [gedaagde] conservatoir beslag te mogen leggen op zaken als vermeld op de zakenlijst die als productie 1 is gevoegd bij dat verzoekschrift, dan wel op de desbetreffende Disney-artikelen die zich bevinden aan het woonadres van [gedaagde] aan de Van Galenstraat 15 te Geleen.
+In verband met dat geschil heeft [eiser] bij verzoekschrift van 8 augustus 2024, ter verzekering van zijn beweerde eigendomsrechten op de Disney-sartikelen, verzocht om ten laste van [gedaagde] conservatoir beslag te mogen leggen op zaken als vermeld op de zakenlijst die als productie 1 is gevoegd bij dat verzoekschrift, dan wel op de desbetreffende Disney-artikelen die zich bevinden aan het woonadres van [gedaagde] aan de [adres] te [plaats] .
 
 2.4.
 

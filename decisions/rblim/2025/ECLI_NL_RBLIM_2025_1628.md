@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:1628"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2587, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2025:1628 Rechtbank Limburg , 21-02-2025 / ROE 24/2555

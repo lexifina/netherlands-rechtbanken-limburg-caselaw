@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:2141"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2023:6644"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2023:6644"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2025:2690"]]
 ---
 
 # ECLI:NL:RBLIM:2025:2141 Rechtbank Limburg , 26-02-2025 / C/03/321553 / HA ZA 23-380

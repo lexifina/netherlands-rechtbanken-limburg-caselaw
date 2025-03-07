@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:2096"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1722, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBLIM:2025:2096 Rechtbank Limburg , 07-03-2025 / ROE 22/1976 en ROE 22/1977

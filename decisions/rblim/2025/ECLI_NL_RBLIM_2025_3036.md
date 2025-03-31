@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:3036"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.26"]
 ---
 
 # ECLI:NL:RBLIM:2025:3036 Rechtbank Limburg , 31-03-2025 / NL:TZ:0000305043:B001

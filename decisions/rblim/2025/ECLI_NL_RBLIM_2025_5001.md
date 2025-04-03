@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:5001"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.3"]
 ---
 
 # ECLI:NL:RBLIM:2025:5001 Rechtbank Limburg , 03-04-2025 / 11376820 MS VERZ 24-1311

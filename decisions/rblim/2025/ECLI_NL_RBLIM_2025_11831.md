@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:11831"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/40"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/40", "JOR 2026/107 met annotatie van mr. J.C. Westermann"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2025:13236"]]
 ---
 
 # ECLI:NL:RBLIM:2025:11831 Rechtbank Limburg , 16-04-2025 / C/03/338495 / HA ZA 25-55

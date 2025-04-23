@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:11832"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0641", "JA 2026/30"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0641", "JA 2026/30", "VR 2026/79"]
 ---
 
 # ECLI:NL:RBLIM:2025:11832 Rechtbank Limburg , 23-04-2025 / C/03/315802 / HA ZA 23-125

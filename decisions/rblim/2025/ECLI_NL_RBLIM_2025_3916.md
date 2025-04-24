@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:3916"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2025/414"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2296"]]
 ---
 
 # ECLI:NL:RBLIM:2025:3916 Rechtbank Limburg , 24-04-2025 / ROE 25/217, ROE 25/497 en ROE 24/5182

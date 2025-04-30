@@ -10,6 +10,7 @@ procedure: "Rekestprocedure"
 subject: "Civiel recht; Europees civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:4107"
 published_in: ["Rechtspraak.nl", "Prg. 2025/205"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHSHE:2026:523, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBLIM:2025:4107 Rechtbank Limburg , 30-04-2025 / C/03/334396/HARK/24-169

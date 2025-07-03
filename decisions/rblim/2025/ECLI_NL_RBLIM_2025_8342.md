@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:8342"
-published_in: ["Rechtspraak.nl", "NJF 2025/490"]
+published_in: ["Rechtspraak.nl", "NJF 2025/490", "JBPr 2026/30 met annotatie van mr. dr. E.F. Groot"]
 ---
 
 # ECLI:NL:RBLIM:2025:8342 Rechtbank Limburg , 03-07-2025 / C/03/338540 / HA RK 25-15

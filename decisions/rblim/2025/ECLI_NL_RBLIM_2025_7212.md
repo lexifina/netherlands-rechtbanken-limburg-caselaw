@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:7212"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.4"]
 ---
 
 # ECLI:NL:RBLIM:2025:7212 Rechtbank Limburg , 25-07-2025 / 11610441 MS VERZ 25-461

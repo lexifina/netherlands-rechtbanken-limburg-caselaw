@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:13065"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/41, p.181"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBLIM:2025:13209"]]
 ---
 
 # ECLI:NL:RBLIM:2025:13065 Rechtbank Limburg , 27-08-2025 / C/03/329564 / HA ZA 24-173

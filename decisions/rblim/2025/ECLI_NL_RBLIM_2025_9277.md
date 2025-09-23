@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:9277"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/31 met annotatie van mr. M.C.J. Termaat"]
 ---
 
 # ECLI:NL:RBLIM:2025:9277 Rechtbank Limburg , 23-09-2025 / C/03/344379 / BZ RK 25/1568

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:9676"
-published_in: ["Rechtspraak.nl", "RF 2026/28"]
+published_in: ["Rechtspraak.nl", "RF 2026/28", "JONDR 2026/401"]
 ---
 
 # ECLI:NL:RBLIM:2025:9676 Rechtbank Limburg , 07-10-2025 / C/03/344667 / KG ZA 25-320

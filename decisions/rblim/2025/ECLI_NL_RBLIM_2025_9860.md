@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:9860"
 published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2025/462"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5937"]]
 ---
 
 # ECLI:NL:RBLIM:2025:9860 Rechtbank Limburg , 10-10-2025 / ROE 25/1476 en ROE 25/1467

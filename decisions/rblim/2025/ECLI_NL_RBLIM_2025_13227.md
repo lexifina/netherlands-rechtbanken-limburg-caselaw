@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:13227"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/181"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2024:2226"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2025:10208"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2025:8519"]]
 ---
 

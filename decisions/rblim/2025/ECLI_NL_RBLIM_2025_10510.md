@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:10510"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0192", "JERF Actueel 2026/114", "JERF 2026/108 met annotatie van mr. L.A.G.M. van der Geld"]
 ---
 
 # ECLI:NL:RBLIM:2025:10510 Rechtbank Limburg , 24-10-2025 / 11376011/OV/24-53

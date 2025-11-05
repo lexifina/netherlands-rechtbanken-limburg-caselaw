@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:10908"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0471", "VAAN-AR-Updates.nl 2026-0471"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0471", "VAAN-AR-Updates.nl 2026-0471", "PR-Updates.nl 2026-0105"]
 ---
 
 # ECLI:NL:RBLIM:2025:10908 Rechtbank Limburg , 05-11-2025 / 11787135 \ AZ VERZ  25-79

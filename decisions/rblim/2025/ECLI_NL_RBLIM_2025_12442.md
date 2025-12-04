@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:12442"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0196"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0196", "Jurisprudentie HSE 2026/11"]
 ---
 
 # ECLI:NL:RBLIM:2025:12442 Rechtbank Limburg , 04-12-2025 / 11883497 AZ VERZ 25-105

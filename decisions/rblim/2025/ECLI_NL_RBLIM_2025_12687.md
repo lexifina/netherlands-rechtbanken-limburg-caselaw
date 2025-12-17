@@ -47,7 +47,7 @@ gemachtigde: mr. P.L.T. Roks,
 
 tegen
 
-1. [gedaagde sub 1] h.o.d.n. [handelsnaam] , in de hoedanigheid van bewindvoerder over alle goederen die toebehoren of zullen toebehoren aan de heer [naam onderbewindgestelde] , geboren op [geboortedatum] 1989,
+1. [gedaagde sub 1] h.o.d.n. [handelsnaam] , in de hoedanigheid van bewindvoerder over alle goederen die toebehoren of zullen toebehoren aan de heer [naam onderbewindgestelde] , geboren op [geboortedatum 1] 1989,
 
 te [woonplaats 1] ,2. [gedaagde sub 2],
 
@@ -306,7 +306,7 @@ Beoordeeld moet worden of de tekortkoming, rekening houdend met alle omstandighe
 
 4.5.
 
-[naam onderbewindgestelde] en [gedaagde sub 2] stellen daarop een zwaarwegend belang te hebben bij voortzetting van de huurovereenkomst en behoud van de woning waar zij met hun drie minderjarige kinderen wonen. Het jongste kind is geboren op 13 december 2024.
+[naam onderbewindgestelde] en [gedaagde sub 2] stellen daarop een zwaarwegend belang te hebben bij voortzetting van de huurovereenkomst en behoud van de woning waar zij met hun drie minderjarige kinderen wonen. Het jongste kind is geboren op [geboortedatum 2] .
 
 4.6.
 
@@ -406,7 +406,7 @@ Uitvoerbaar bij voorraad
 
 4.19.
 
-Heemwonen vordert tenslotte dat haar vorderingen uitvoerbaar bij voorraad worden verklaard en vraagt om deze uitvoerbaarheid bij voorraad te motiveren aangezien zij daar, gezien de toetsingsmaatstaf in executiegeschillen, belang bij heeft. Heemwonen heeft zwaarwegende belangen bij het kunnen executeren van het vonnis aangezien er in een sociale huurwoning een handelshoeveelheid verdovende middelen was opgeslagen en deze kennelijk ook daar werden geproduceerd. Het afwachten van een mogelijk hoger beroep duurt circa twee jaar en dat staat haaks op het belang van Heemwonen om snel op te kunnen treden. Alphen en [gedaagde sub 2] voeren verweer.
+Heemwonen vordert tenslotte dat haar vorderingen uitvoerbaar bij voorraad worden verklaard en vraagt om deze uitvoerbaarheid bij voorraad te motiveren aangezien zij daar, gezien de toetsingsmaatstaf in executiegeschillen, belang bij heeft. Heemwonen heeft zwaarwegende belangen bij het kunnen executeren van het vonnis aangezien er in een sociale huurwoning een handelshoeveelheid verdovende middelen was opgeslagen en deze kennelijk ook daar werden geproduceerd. Het afwachten van een mogelijk hoger beroep duurt circa twee jaar en dat staat haaks op het belang van Heemwonen om snel op te kunnen treden. [naam onderbewindgestelde] en [gedaagde sub 2] voeren verweer.
 
 4.20.
 

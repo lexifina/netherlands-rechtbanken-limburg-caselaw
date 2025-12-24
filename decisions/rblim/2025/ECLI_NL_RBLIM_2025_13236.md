@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2025:13236"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0065"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0065", "JOR 2026/140 met annotatie van mr. L. Rijzewijk"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2025:11831"]]
 ---
 

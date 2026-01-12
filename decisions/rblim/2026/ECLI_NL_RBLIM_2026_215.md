@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:215"
-published_in: ["Rechtspraak.nl", "JM 2026/39 met annotatie van L. Boerema"]
+published_in: ["Rechtspraak.nl", "JM 2026/39 met annotatie van L. Boerema", "AB 2026/219 met annotatie van R.H.W. Frins"]
 ---
 
 # ECLI:NL:RBLIM:2026:215 Rechtbank Limburg , 12-01-2026 / ROE 24/2331

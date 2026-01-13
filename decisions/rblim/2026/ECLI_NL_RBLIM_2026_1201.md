@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1201"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGz 2026/54 met annotatie van drs. F.W.E. Bunschoten"]
 ---
 
 # ECLI:NL:RBLIM:2026:1201 Rechtbank Limburg , 13-01-2026 / C/03/347838 / BZ RK 25/2499

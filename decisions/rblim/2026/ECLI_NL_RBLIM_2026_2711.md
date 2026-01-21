@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2711"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/100"]
 ---
 
 # ECLI:NL:RBLIM:2026:2711 Rechtbank Limburg , 21-01-2026 / 03.196019.25, 03-409377-24 (ttz.gev.) en 03-333353-25 (ttz.gev.), 03.185444.22 (tul)

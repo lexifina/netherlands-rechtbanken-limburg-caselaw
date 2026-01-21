@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:358"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/133"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/133", "JONDR 2026/360"]
 ---
 
 # ECLI:NL:RBLIM:2026:358 Rechtbank Limburg , 21-01-2026 / 11888732 \ CV EXPL 25-3780

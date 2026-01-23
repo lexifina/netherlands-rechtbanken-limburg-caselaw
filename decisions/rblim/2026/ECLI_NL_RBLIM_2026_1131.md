@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1131"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RFR 2026/66"]
 ---
 
 # ECLI:NL:RBLIM:2026:1131 Rechtbank Limburg , 23-01-2026 / C/03/348187 / FA RK 25-2764

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1484"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0042"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0042", "RI 2026/40", "JONDR 2026/444"]
 ---
 
 # ECLI:NL:RBLIM:2026:1484 Rechtbank Limburg , 03-02-2026 / C/03/348956 FT EA 26/13

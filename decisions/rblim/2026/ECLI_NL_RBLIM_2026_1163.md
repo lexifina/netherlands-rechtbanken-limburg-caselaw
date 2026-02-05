@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1163"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/145"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/145", "JAAN 2026/73"]
 ---
 
 # ECLI:NL:RBLIM:2026:1163 Rechtbank Limburg , 05-02-2026 / C/03/348087 / KG ZA 25-495

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1370"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0034"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0034", "GJ 2026/45"]
 ---
 
 # ECLI:NL:RBLIM:2026:1370 Rechtbank Limburg , 06-02-2026 / C/03/348527 / KG ZA 26-5

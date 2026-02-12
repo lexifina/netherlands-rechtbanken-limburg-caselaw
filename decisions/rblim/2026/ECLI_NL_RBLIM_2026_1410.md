@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1410"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0339", "VAAN-AR-Updates.nl 2026-0339", "Sdu Nieuws Arbeidsrecht 2026/86"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0339", "VAAN-AR-Updates.nl 2026-0339", "Sdu Nieuws Arbeidsrecht 2026/86", "Prg. 2026/139"]
 ---
 
 # ECLI:NL:RBLIM:2026:1410 Rechtbank Limburg , 12-02-2026 / 12029948 \ AZ VERZ 25-144

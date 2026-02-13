@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1787"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/129", "RVR 2026/48"]
 ---
 
 # ECLI:NL:RBLIM:2026:1787 Rechtbank Limburg , 13-02-2026 / C/03/347031 / KG ZA 25-436

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1705"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/76 met annotatie van mr. dr. A.G.F.M. Flos"]
 ---
 
 # ECLI:NL:RBLIM:2026:1705 Rechtbank Limburg , 18-02-2026 / C/03/340463 / HA ZA 25-137

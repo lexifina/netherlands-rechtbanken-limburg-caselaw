@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1757"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0177"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0177", "GZR-Updates.nl 2026-0102"]
 ---
 
 # ECLI:NL:RBLIM:2026:1757 Rechtbank Limburg , 19-02-2026 / C/03/345753 / HA RK 25-165

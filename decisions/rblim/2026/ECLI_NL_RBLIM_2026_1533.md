@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1533"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0142", "VEAN-ERF-Updates.nl 2026-0142"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0142", "VEAN-ERF-Updates.nl 2026-0142", "JPF 2026/68 met annotatie van mr. E.N. Frohn", "JERF Actueel 2026/69"]
 ---
 
 # ECLI:NL:RBLIM:2026:1533 Rechtbank Limburg , 19-02-2026 / 12087268 \ EZ VERZ  26-26

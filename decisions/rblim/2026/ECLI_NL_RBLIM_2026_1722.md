@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1722"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0166", "VEAN-ERF-Updates.nl 2026-0166"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0166", "VEAN-ERF-Updates.nl 2026-0166", "JERF Actueel 2026/71"]
 ---
 
 # ECLI:NL:RBLIM:2026:1722 Rechtbank Limburg , 25-02-2026 / C/03/345554/HA ZA 25-408

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2017"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0053"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0053", "JERF Actueel 2026/72", "JERF 2026/81"]
 ---
 
 # ECLI:NL:RBLIM:2026:2017 Rechtbank Limburg , 27-02-2026 / 12011008 \ EZ VERZ 25-501

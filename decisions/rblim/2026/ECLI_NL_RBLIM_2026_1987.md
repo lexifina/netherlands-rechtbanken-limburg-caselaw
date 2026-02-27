@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1987"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0163", "VEAN-ERF-Updates.nl 2026-0163"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0163", "VEAN-ERF-Updates.nl 2026-0163", "JERF Actueel 2026/78"]
 ---
 
 # ECLI:NL:RBLIM:2026:1987 Rechtbank Limburg , 27-02-2026 / C/03/348691 / HA RK 26-4

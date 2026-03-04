@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:1973"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/32, p.144"]
 ---
 
 # ECLI:NL:RBLIM:2026:1973 Rechtbank Limburg , 04-03-2026 / 11842283 \ CV EXPL 25-3300

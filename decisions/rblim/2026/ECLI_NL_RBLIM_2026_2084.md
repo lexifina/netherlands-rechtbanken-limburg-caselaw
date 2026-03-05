@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2084"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0232", "VEAN-ERF-Updates.nl 2026-0232"]
 ---
 
 # ECLI:NL:RBLIM:2026:2084 Rechtbank Limburg , 05-03-2026 / 12064783 \ EZ VERZ 26-14

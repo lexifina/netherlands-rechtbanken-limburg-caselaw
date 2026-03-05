@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2081"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VSZ 2026/09", "TVA 2026/52"]
 ---
 
 # ECLI:NL:RBLIM:2026:2081 Rechtbank Limburg , 05-03-2026 / C/03/349209/KG ZA 26-36

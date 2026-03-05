@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2172"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0148", "VEAN-ERF-Updates.nl 2026-0148"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0148", "VEAN-ERF-Updates.nl 2026-0148", "Prg. 2026/159"]
 ---
 
 # ECLI:NL:RBLIM:2026:2172 Rechtbank Limburg , 05-03-2026 / C/03/328509 / KG ZA 24-71

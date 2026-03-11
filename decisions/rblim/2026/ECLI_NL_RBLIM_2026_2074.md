@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2074"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/209"]
 ---
 
 # ECLI:NL:RBLIM:2026:2074 Rechtbank Limburg , 11-03-2026 / 11738632 \ CV EXPL  25-2699

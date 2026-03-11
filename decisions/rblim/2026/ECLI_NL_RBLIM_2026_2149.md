@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2149"
-published_in: ["Rechtspraak.nl", "Notamail 2026/73", "Sdu Nieuws Personen- en familierecht 2026/200"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/73", "Sdu Nieuws Personen- en familierecht 2026/200", "ERF-Updates.nl 2026-0195", "VEAN-ERF-Updates.nl 2026-0195", "JERF 2026/82", "JERF Actueel 2026/92"]
 ---
 
 # ECLI:NL:RBLIM:2026:2149 Rechtbank Limburg , 11-03-2026 / C/03/330324 / HA ZA 24/220

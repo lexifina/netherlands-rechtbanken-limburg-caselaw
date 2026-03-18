@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2324"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hersteluitspraak: ECLI:NL:RBLIM:2026:3733"]]
 ---
 
 # ECLI:NL:RBLIM:2026:2324 Rechtbank Limburg , 18-03-2026 / C/03/307698 / HA ZA 22-335

@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2787"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/172", "RVR 2026/61"]
 ---
 
 # ECLI:NL:RBLIM:2026:2787 Rechtbank Limburg , 18-03-2026 / C/03/335979 / HA ZA 24-497

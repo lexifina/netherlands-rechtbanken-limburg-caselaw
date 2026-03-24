@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2754"
-published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/614"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/614", "BR 2026/40 met annotatie van J.S. Procee, L.A. de Jager", "JB 2026/131 met annotatie van mr. dr. S. Schuite, mr. M.T. Pranger", "Module Ruimtelijke Ordening 2026/8882"]
 ---
 
 # ECLI:NL:RBLIM:2026:2754 Rechtbank Limburg , 24-03-2026 / ROE 25/1468, ROE 25/1681, ROE 25/1683 en ROE 25/1684

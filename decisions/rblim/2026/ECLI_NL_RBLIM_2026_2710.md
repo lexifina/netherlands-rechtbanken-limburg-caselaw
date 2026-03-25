@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2710"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/160"]
 ---
 
 # ECLI:NL:RBLIM:2026:2710 Rechtbank Limburg , 25-03-2026 / 12099622 \ CV EXPL  26-815

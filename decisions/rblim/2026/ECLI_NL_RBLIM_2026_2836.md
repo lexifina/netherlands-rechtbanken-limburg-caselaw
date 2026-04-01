@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2836"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/98"]
 ---
 
 # ECLI:NL:RBLIM:2026:2836 Rechtbank Limburg , 01-04-2026 / C/03/348011 / HA ZA 25-538

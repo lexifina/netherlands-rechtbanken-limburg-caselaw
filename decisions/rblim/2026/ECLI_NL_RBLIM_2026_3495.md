@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3495"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.19"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2020:10703"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2021:10221"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:10697"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:10698"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:10699"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2023:7697"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2024:10362"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2026:3496"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBLIM:2022:10696"]]
 ---
 
 # ECLI:NL:RBLIM:2026:3495 Rechtbank Limburg , 03-04-2026 / C/03/278317 / FA RK 20-1896

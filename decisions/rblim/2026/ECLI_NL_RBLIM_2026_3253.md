@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3253"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/85 met annotatie van mr. S. Pieters", "Jurisprudentie HSE 2026/59"]
 ---
 
 # ECLI:NL:RBLIM:2026:3253 Rechtbank Limburg , 08-04-2026 / ROE 3/1712

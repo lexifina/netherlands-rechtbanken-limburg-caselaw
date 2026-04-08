@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:2870"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-1038", "VAAN-AR-Updates.nl 2026-1038"]
 ---
 
 # ECLI:NL:RBLIM:2026:2870 Rechtbank Limburg , 08-04-2026 / 11799056\CV EXPL 25-3161

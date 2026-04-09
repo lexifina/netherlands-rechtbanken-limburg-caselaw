@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3367"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet VTH 2026/627"]
 ---
 
 # ECLI:NL:RBLIM:2026:3367 Rechtbank Limburg , 09-04-2026 / ROE 25/2113

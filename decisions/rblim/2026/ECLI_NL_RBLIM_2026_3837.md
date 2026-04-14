@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3837"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/179"]
 ---
 
 # ECLI:NL:RBLIM:2026:3837 Rechtbank Limburg , 14-04-2026 / C/03/349207 / HA RK 26-14

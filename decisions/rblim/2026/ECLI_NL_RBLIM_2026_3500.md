@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3500"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/211"]
 ---
 
 # ECLI:NL:RBLIM:2026:3500 Rechtbank Limburg , 14-04-2026 / 25-024430

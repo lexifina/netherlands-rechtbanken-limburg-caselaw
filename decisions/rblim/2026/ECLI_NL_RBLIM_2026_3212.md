@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBLIM:2026:3212"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0192"]
 ---
 
 # ECLI:NL:RBLIM:2026:3212 Rechtbank Limburg , 15-04-2026 / C/03/345002 / HA ZA 25-382

@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): limburg
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Limburg (with the former Rechtbanken Maastricht and Roermond), Netherlands, which global-law reads at `netherlands/rechtbanken-limburg/caselaw/`.
+
 Every decision of the rechtbanken (district courts): limburg that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 22,038 decisions from 1994-11-24 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-limburg/caselaw`.
